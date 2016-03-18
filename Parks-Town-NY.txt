@@ -1,0 +1,129 @@
+[Parks - Town]
+	[New York]
+		{NY}
+		[Brookhaven]
+		[Huntington]
+			Centerport
+				Betty Allen Nature Preserve
+					{Betty Allen Twin Ponds Nature Park}
+					{Twin Ponds South}
+				Centerport Mill Pond
+				Centerport Park
+					Centerport Beach
+				Fleets Cove Beach
+				Mill Pond Walk
+					Grist Mill Park
+					Heron Park
+				Phragmites Park
+					{Twin Ponds North}
+			Cold Spring Harbor
+				Cold Spring Harbor Park
+			Commack
+				Cedar Road Park
+				Commack Park
+					{Wicks Road Park}
+				Sunshine Acres
+			Dix Hills
+				Arboretum Park
+				Caledonia Park
+				Dix Hills Park
+				Otsego Park
+				Terry Farrell Park
+					{Wolf Hill Park}
+			East Northport
+				Caravan Park
+				Elwood Park
+				John J. Walsh Memorial Park
+				Verleye Park
+				Veterans Park
+				William J. Byrne Park
+					{Clay Pitts Park}
+			Eatons Neck
+				Hobart Beach
+					{Sand City}
+			Greenlawn
+				Greenlawn Memorial Park
+				Little Plains Park
+			Huntington
+				Breezy Park
+				Gateway Park Community Organic Garden
+				Gold Star Battalion Beach
+				Heckscher Park
+				Manor Plains Nature Park
+				Mill Dam Park
+					{Milldam Park}
+				Robert M. Kubecka Memorial Organic Garden
+				Robin Park
+			Huntington Bay
+				Crescent Park
+					Crescent Beach
+			Huntington Station
+				Al Walker Memorial Park
+				Columbia Street Park
+				Depot Road Park
+				Manor Field Park
+				Peter A. Nelson Park
+					{Oakwood Park}
+			LLoyd Harbor
+				Quentin/Sammis West Neck Beach
+			Melville
+				Half Hollow Park
+				Whitman Park
+				William E. Kessler Park
+					{Melville Park}
+			Northport
+				Asharoken Beach
+				Cow Harbor Park
+				Crab Meadow Watershed Area
+					{Crab Meadow Watershed}
+					Crab Meadow Beach
+						{Crabmeadow Beach}
+					Fuchs Pond Nature Preserve
+						{Fuchs Pond Preserve}
+						{Fuchs Pond}
+					Geissler's Beach
+						{Makamah Beach}
+					Henry Ingraham Nature Preserve
+					Jerome Ambro Memorial Wetlands Preserve
+				Northport Rail Trail
+			South Huntington
+				Koster Park
+		[Smithtown]
+			Commack
+				Burr Winkle Park
+				Hoyt Farm Nature Preserve
+				Whitman Hollow Park
+			Fort Salonga
+				Callahans Beach
+			Hauppauge
+				Bill Richards Park
+				Pine Cone Woods Park
+			Kings Park
+				Cy Donnelly Park
+				Flynn Memorial Park
+				Harrisons Pond Park
+				Kings Park Bluff
+				Kings Park Memorial Park
+				San Remo Community Park
+			Nesconset
+				Andreoli Park
+				Charles Toner Park
+			Nissequogue
+				Long Beach
+				Schubert's Beach
+				Short Beach
+				Sprofera Park
+			Smithtown
+				Brady Park
+				Brooksite Park
+				Cordwood Park
+				East Hills Park
+				Landing Avenue Park
+				Laurel Drive Park
+				Morewood Park
+				Smithtown Landing Country Club
+				Tide Park
+				Valmont Park
+			St. James
+				Gaynor Park
+				Veterans Memorial Park

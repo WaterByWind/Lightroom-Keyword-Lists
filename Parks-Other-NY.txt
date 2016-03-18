@@ -1,0 +1,46 @@
+[Parks - Other]
+	[United States]
+		{US}
+		{United States of America}
+		{USA}
+		[New York]
+			{NY}
+			Adirondack Park
+				Blue Mountain Lake
+					Adirondack Museum
+				Long Lake
+					Buttermilk Falls
+				Tupper Lake
+					The Wild Center
+			Centerport
+				Vanderbilt Museum and Preserve
+					Vanderbilt Mansion
+					Vanderbilt Museum
+					Vanderbilt Planetarium
+			Eatons Neck
+				Price's Bend Beach
+				Valley Grove Beach
+			Greenlawn
+				Edwin and Gertrude Grace Nature Preserve
+					{Grace Nature Preserve}
+					Grace Stroll Garden
+			Huntington
+				Village Green Park
+			Kings Park
+				Old Dock at Kings Park Bluff
+					{Old Dock}
+					{Kings Park Bluff}
+			Lloyd Harbor
+				Lloyd Harbor Village Park
+			Northport
+				Cow Harbor Park
+				Iroquois Pipeline Right-of-Way
+				Northport Village Dock
+				Northport Village Park
+					{Northport Park}
+				Scudder Park
+					{Scudder Beach Park}
+			Stony Brook
+				Avalon Park & Preserve
+				Stony Brook Grist Mill
+				Stony Brook Mill Pond

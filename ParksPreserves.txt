@@ -1,0 +1,50 @@
+[Parks/Preserves/Refuges]
+	[County]
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			[New York]
+				{NY}
+	[Federal/National]
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			National Parks Service
+				{NPS}
+				[New York]
+					{NY}
+			National Wildlife Refuge System
+				{NWRS}
+				[New York]
+					{NY}
+	[Other]
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			[New York]
+				{NY}
+	[State]
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			[New York]
+				{NY}
+	The Nature Conservancy
+		{TNC}
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			[New York]
+				{NY}
+	[Town]
+		[United States]
+			{US}
+			{United States of America}
+			{USA}
+			[New York]
+				{NY}

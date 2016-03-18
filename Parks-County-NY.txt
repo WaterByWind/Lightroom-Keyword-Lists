@@ -1,0 +1,238 @@
+[Parks - County]
+	[New York]
+		{NY}
+		[Bronx]
+		[Kings]
+		[Nassau]
+			[Active Parks]
+				[Central Nassau]
+					East Meadow
+						Eisenhower Park
+					Hicksville
+						Cantiague Park
+				[North Shore]
+					Roslyn-North Hills
+						Christopher Morley Park
+				[South Shore]
+					East Rockaway
+						Bay Park
+					Freeport
+						Cow Meadow Park
+					Hewlett
+						Grant Park
+					Inwood
+						Inwood Park
+					Lido Beach
+						Nickerson Beach Park
+					North Woodmere
+						North Woodmere Park
+					Roosevelt
+						Centennial Park
+						Reverend Arthur Mackey Sr. Park
+					Seaford
+						Cedar Creek Park
+					Wantagh
+						Wantagh Park
+			[Campgrounds]
+				[Central Nassau]
+					Old Bethpage
+						Battle Row Campground
+				[South Shore]
+					Lido Beach
+						Nickerson Beach Campground
+			[Museums]
+				[Central Nassau]
+					Hempstead
+						African American Museum and Center for Applied Arts
+					Old Bethpage
+						Old Bethpage Village Restoration
+					Uniondale
+						Cradle of Aviation Museum
+						Long Island Children’s Museum
+						Nassau County Firefighters Museum and Education Center
+				[North Shore]
+					East Norwich
+						Chelsea Mansion
+					Flower Hill
+						Elderfields
+					Glen Cove
+						Garvies Point Museum and Preserve
+						Holocaust Memorial and Educational Center
+					Jericho
+						Malcolm House
+					Manhasset
+						Science Museum of Long Island
+					Roslyn
+						Roslyn Grist Mill
+					Roslyn Harbor
+						Cedarmere
+						Nassau County Museum of Art
+					Saddle Rock
+						Saddle Rock Grist Mill
+					Sands Point
+						Falaise
+						Hempstead House
+				[South Shore]
+					Seaford
+						Tackapausha Museum
+					Wantagh
+						Wantagh Railroad Museum
+			[Passive Parks]
+				[Central Nassau]
+					Levittown
+						Polaris Field
+					West Hempstead
+						Hall's Pond Park
+				[North Shore]
+					Herricks
+						Herricks Pond Park
+					Port Washington
+						Baxter's Pond/Barbara Johnson Park & Preserve
+						Stannards Brook Park
+				[South Shore]
+					Baldwin
+						Lofts Pond Park
+						Silver Lake Park
+					Freeport
+						Milburn Pond Park/Milburn Creek Park
+					Lakeview
+						Tanglewood Park & Preserve
+					Merrick
+						Camman's Pond Park
+					North Woodmere
+						Doxey Brook Park
+					Oceanside
+						Terrell Avenue Park
+					Seaford
+						Washington Avenue Park
+					Valley Stream
+						East Gate/West Gate
+			[Preserves]
+				[North Shore]
+					Bayville
+						Mill Neck Preserve
+					East Norwich
+						Muttontown Preserve
+					Glen Cove
+						Garvies Point Museum and Preserve
+						Welwyn Preserve
+					Lattington
+						Bailey Arboretum
+					Oyster Bay
+						Tiffany Creek Preserve
+					Plandome Manor
+						Leeds Pond Preserve
+					Roslyn Harbor
+						William Cullen Bryant Preserve
+					Sands Point
+						Sands Point Preserve
+					Syosset
+						Stillwell Woods Preserve
+				[South Shore]
+					Bellmore
+						Meroke Preserve
+					Freeport
+						Brookside Preserve
+					Lakeview
+						Tanglewood Park and Preserve
+					Massapequa
+						Peter J. Schmitt Massapequa Preserve
+							{Massapequa Preserve}
+					Seaford
+						Tackapausha Preserve
+					Wantagh
+						Mill Pond Park
+		[New York]
+			{Manhattan}
+		[Queens]
+		[Richmond]
+			{Staten Island}
+		[Suffolk]
+			[Central Suffolk County]
+				Bayport
+					Sans Souci County Park
+				Brookhaven
+					Southaven County Park
+				Calverton/Manorville
+					Robert Cushman Murphy County Park
+				Farmingville
+					Suffolk County Vietnam Veterans Memorial Park
+				Islip
+					Scully Estate
+						{Scully Sanctuary}
+				Manorville
+					Pine Barrens Trails Information Center
+				Middle Island
+					Cathedral Pines County Park
+				Sayville
+					Brookside County Park
+					Meadowcroft Estate
+				Setauket
+					Old Field Farm
+						{North Shore Horse Show Grounds}
+				Shirley
+					Smith Point County Park
+				West Sayville
+					Green's Creek County Park
+					Meadow Edge
+						{MeadowEdge}
+			[Eastern Suffolk County]
+				East Hampton
+					Cedar Point County Park
+						Cedar Island Lighthouse
+				Flanders
+					Big Duck
+					Hubbard County Park
+				Hampton Bays
+					Meschutt Beach County Park
+					Sears Bellows County Park
+					Shinnecock Canal County Marina
+				Montauk
+					Montauk County Park
+				Orient
+					Orient Point County Park
+				Riverhead
+					Charles F. Altenkirch County Park
+						{Shinnecock West County Park}
+					Cranberry Bog Nature Preserve
+					Indian Island County Park
+				Southampton
+					Shinnecock East County Park
+				Westhampton
+					Cupsogue Beach County Park
+					Dwarf Pines Plains Preserve
+			[Western Suffolk County]
+				Great River
+					Timber Point County Marina
+				Huntington
+					Coindre Hall
+						{George McKesson Brown Estate}
+						{West Neck Farm}
+					West Hills County Park
+				Islandia
+					Lakeland County Park
+				Lake Ronkonkoma
+					Lake Ronkonkoma County Park
+					Raynor Beach County Park
+				Northport
+					Crab Meadow Watershed Area
+						{Crab Meadow Watershed}
+						Makamah Nature Preserve
+							{Makamah County Park}
+				San Remo
+					Arthur Kunz County Park
+				Smithtown
+					Blydenburgh County Park
+						Blydenburgh Lake
+							{Stump Pond}
+							{New Mill Pond}
+							{Weld's Pond}
+					Blydenburgh Farm and New Mill Historic District
+						{Blydenburgh Historic District}
+					Millers Pond County Park
+				St. James
+					Deepwells Farm County Park
+						St. James General Store
+				West Bay Shore
+					Gardiner County Park
+					Sagtikos Manor

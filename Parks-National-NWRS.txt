@@ -1,0 +1,832 @@
+[Parks - Federal/National]
+	[United States]
+		{US}
+		{United States of America}
+		{USA}
+		National Wildlife Refuge System
+			{NWRS}
+			[Alabama]
+				{AL}
+				Choctaw National Wildlife Refuge
+				Eufaula National Wildlife Refuge
+				Gulf Coast National Wildlife Refuge Complex
+					Bon Secour National Wildlife Refuge
+					Grand Bay National Wildlife Refuge
+				Wheeler National Wildlife Refuge Complex
+					Cahaba River National Wildlife Refuge
+					Fern Cave National Wildlife Refuge
+					Key Cave National Wildlife Refuge
+					Mountain Longleaf National Wildlife Refuge
+					Sauta Cave National Wildlife Refuge
+					Watercress Darter National Wildlife Refuge
+					Wheeler National Wildlife Refuge
+			[Alaska]
+				{AK}
+				Alaska Maritime National Wildlife Refuge
+				Alaska Peninsula National Wildlife Refuge
+				Arctic National Wildlife Refuge
+				Becharof National Wildlife Refuge
+				Innoko National Wildlife Refuge
+				Izembek National Wildlife Refuge
+				Kanuti National Wildlife Refuge
+				Kenai National Wildlife Refuge
+				Kodiak National Wildlife Refuge
+				Koyukuk National Wildlife Refuge
+				Nowitna National Wildlife Refuge
+				Selawik National Wildlife Refuge
+				Tetlin National Wildlife Refuge
+				Togiak National Wildlife Refuge
+				Yukon Delta National Wildlife Refuge
+				Yukon Flats National Wildlife Refuge
+			[American Samoa]
+				{AS}
+				Rose Atoll Marine National Monument
+					Rose Atoll National Wildlife Refuge
+			[Arizona]
+				{AZ}
+				Bill Willams River National Wildlife Refuge
+				Buenos Aires National Wildlife Refuge
+				Cabeza Prieta National Wildlife Refuge
+				Cibola National Wildlife Refuge
+				Havasu National Wildlife Refuge
+				Imperial National Wildlife Refuge
+				Kofa National Wildlife Refuge
+				Leslie Canyon National Wildlife Refuge
+				San Bernardino National Wildlife Refuge
+			[Arkansas]
+				{AR}
+				Central Arkansas National Wildlife Refuge Complex
+					Bald Knob National Wildlife Refuge
+					Big Lake National Wildlife Refuge
+					Cache River National Wildlife Refuge
+					Holla Bend National Wildlife Refuge
+					Logan Cave National Wildlife Refuge
+					Wapanocca National Wildlife Refuge
+				Dale Bumpers White River National Wildlife Refuge
+					{White River National Wildlife Refuge}
+				South Arkansas National Wildlife Refuge Complex
+					Felsenthal National Wildlife Refuge
+					Overflow National Wildlife Refuge
+					Pond Creek National Wildlife Refuge
+			[California]
+				{CA}
+				Hopper Mountain National Wildlife Refuge Complex
+					Bitter Creek National Wildlife Refuge
+					Blue Ridge National Wildlife Refuge
+					Guadalupe-Nipomo Dunes National Wildlife Refuge
+					Hopper Mountain National Wildlife Refuge
+				Humboldt Bay National Wildlife Refuge Complex
+					Castle Rock National Wildlife Refuge
+					Humboldt Bay National Wildlife Refuge
+				Imperial National Wildlife Refuge
+				Kern National Wildlife Refuge Complex
+					Kern National Wildlife Refuge
+					Pixley National Wildlife Refuge
+					Tulare Basin Wildlife Management Area
+				Klamath Basin National Wildlife Refuge Complex
+					Clear Lake National Wildlife Refuge
+					Lower Klamath National Wildlife Refuge
+					Tule Lake National Wildlife Refuge
+				Modoc National Wildlife Refuge
+				Sacramento National Wildlife Refuge Complex
+					Butte Sink Wildlife Management Area
+					Colusa National Wildlife Refuge
+					Delevan National Wildlife Refuge
+					North Central Valley Wildlife Management Area
+					Sacramento National Wildlife Refuge
+					Sacramento River National Wildlife Refuge
+					Sutter National Wildlife Refuge
+					Willow Creek-Lurline Wildlife Management Area
+				San Diego National Wildlife Refuge Complex
+					San Diego Bay National Wildlife Refuge
+					San Diego National Wildlife Refuge
+					Seal Beach National Wildlife Refuge
+					Tijuana Slough National Wildlife Refuge
+				San Francisco Bay National Wildlife Refuge Complex
+					Antioch Dunes National Wildlife Refuge
+					Don Edwards San Francisco Bay National Wildlife Refuge
+						{San Francisco Bay National Wildlife Refuge}
+					Ellicott Slough National Wildlife Refuge
+					Farallon National Wildlife Refuge
+					Marin Islands National Wildlife Refuge
+					Salinas River National Wildlife Refuge
+					San Pablo Bay National Wildlife Refuge
+				San Luis National Wildlife Refuge Complex
+					Grasslands Wildlife Management Area
+					Merced National Wildlife Refuge
+					San Joaquin River National Wildlife Refuge
+					San Luis National Wildlife Refuge
+				Sonny Bono Salton Sea National Wildlife Refuge Complex
+					Coachella Valley National Wildlife Refuge
+					Sonny Bono Salton Sea National Wildlife Refuge
+				Stone Lakes National Wildlife Refuge
+			[Colorado]
+				{CO}
+				Arapaho National Wildlife Refuge Complex
+					Arapaho National Wildlife Refuge
+				Lower Green River National Wildlife Refuge Complex
+					Browns Park National Wildlife Refuge
+				Rocky Mountain Arsenal National Wildlife Refuge Complex
+					Rocky Flats National Wildlife Refuge
+					Rocky Mountain Arsenal National Wildlife Refuge
+					Two Ponds National Wildlife Refuge
+				San Luis Valley National Wildlife Refuge Complex
+					Alamosa National Wildlife Refuge
+					Baca National Wildlife Refuge
+					Monte Vista National Wildlife Refuge
+			[Connecticut]
+				{CT}
+				Stewart B. McKinney National Wildlife Refuge
+			[Delaware]
+				{DE}
+				Bombay Hook National Wildlife Refuge
+				Prime Hook National Wildlife Refuge
+			[Florida]
+				{FL}
+				Arthur R. Marshall Loxahatchee National Wildlife Refuge Complex
+					Arthur R. Marshall Loxahatchee National Wildlife Refuge
+					Hobe Sound National Wildlife Refuge
+				Crystal River National Wildlife Refuge Complex
+					Chassahowitzka National Wildlife Refuge
+					Crystal River National Wildlife Refuge
+					Egmont Key National Wildlife Refuge
+					Passage Key National Wildlife Refuge
+					Pinellas National Wildlife Refuge
+				Everglades Headwaters National Wildlife Refuge Complex
+					Archie Carr National Wildlife Refuge
+					Everglades Headwaters National Wildlife Refuge and Conservation Area
+					Lake Wales Ridge National Wildlife Refuge
+					Pelican Island National Wildlife Refuge
+				Florida Keys National Wildlife Refuges Complex
+					Crocodile Lake National Wildlife Refuge
+					Great White Heron National Wildlife Refuge
+					Key West National Wildlife Refuge
+					National Key Deer Refuge
+				J.N. "Ding" Darling National Wildlife Refuge Complex
+					Caloosahatchee National Wildlife Refuge
+					Island Bay National Wildlife Refuge
+					J.N. "Ding" Darling National Wildlife Refuge
+					Matlacha Pass National Wildlife Refuge
+					Pine Island National Wildlife Refuge
+				Merritt Island National Wildlife Refuge Complex
+					Lake Woodruff National Wildlife Refuge
+					Merritt Island National Wildlife Refuge
+					St. John's National Wildlife Refuge
+				North Florida National Wildlife Refuge Complex
+					Cedar Keys National Wildlife Refuge
+					Lower Suwannee National Wildlife Refuge
+					St. Marks National Wildlife Refuge
+				Southwest Florida Gulf Coast National Wildlife Refuge Complex
+					Florida Panther National Wildlife Refuge
+					Ten Thousand Island National Wildlife Refuge
+				St. Vincent National Wildlife Refuge
+			[Georgia]
+				{GA}
+				Bond Swamp National Wildlife Refuge
+				Okefenokee National Wildlife Refuge Complex
+					Banks Lake National Wildlife Refuge
+					Okefenokee National Wildlife Refuge
+				Piedmont National Wildlife Refuge
+				Savannah Coastal Refuge National Wildlife Refuge Complex
+					Blackbeard Island National Wildlife Refuge
+					Harris Neck National Wildlife Refuge
+					Savannah National Wildlife Refuge
+					Wassaw National Wildlife Refuge
+					Wolf Island National Wildlife Refuge
+			[Guam]
+				{GU}
+				Mariana Islands Refuges and Monument Complex
+					{Pacific Reefs Refuges and Monument Complex}
+					Guam National Wildlife Refuge
+			[Hawaii]
+				{HI}
+				Big Island National Wildlife Refuge Complex
+					Hakalau Forest National Wildlife Refuge
+					Kona Forest National Wildlife Refuge
+				Kauai National Wildlife Refuge Complex
+					Hanalei National Wildlife Refuge
+					Huleia National Wildlife Refuge
+					Kilauea Point National Wildlife Refuge
+				Maui National Wildlife Refuge Complex
+					Kakahaia National Wildlife Refuge
+					Kealia Pond National Wildlife Refuge
+				Oahu National Wildlife Refuge Complex
+					James Campbell National Wildlife Refuge
+					Oahu Forest National Wildlife Refuge
+					Pearl Harbor National Wildlife Refuge
+						Honouliuli Unit
+						Kalaeloa Unit
+						Waiawa Unit
+				Papahanaumokuakea Marine National Monument
+					Hawaiian Islands National Wildlife Refuge
+					Midway Atoll National Wildlife Refuge
+			[Idaho]
+				{ID}
+				Deer Flat National Wildlife Refuge
+				Inland Northwest National Wildlife Refuge Complex
+					Kootenai National Wildlife Refuge
+				Southeast Idaho National Wildlife Refuge Complex
+					Bear Lake National Wildlife Refuge
+					Camas National Wildlife Refuge
+					Grays Lake National Wildlife Refuge
+					Minidoka National Wildlife Refuge
+					Oxford Slough Waterfowl Protection Area
+			[Illinois]
+				{IL}
+				Big Muddy National Fish and Wildlife Refuge
+				Crab Orchard National Wildlife Refuge
+				Cypress Creek National Wildlife Refuge
+				Hackmatack National Wildlife Refuge
+				Illinois River National Wildlife and Fish Refuges Complex
+					Chautauqua National Wildlife Refuge
+					Emiquon National Wildlife Refuge
+					Meredosia National Wildlife Refuge
+				Middle Mississippi River National Wildlife Refuge
+				Two Rivers National Wildlife Refuge
+				Upper Mississippi River National Wildlife and Fish Refuge
+			[Indiana]
+				{IN}
+				Big Oaks National Wildlife Refuge
+				Cane Ridge Wildlife Management Area
+				Muscatatuck National Wildlife Refuge
+				Patoka River National Wildlife Refuge
+			[Iowa]
+				{IA}
+				DeSoto National Wildlife Refuge
+				Driftless Area National Wildlife Refuge
+				Iowa Wetland Management District
+				Neal Smith National Wildlife Refuge
+				Port Louisa National Wildlife Refuge
+				Union Slough National Wildlife Refuge
+				Upper Mississippi River National Wildlife and Fish Refuge
+			[Jamaica Channel]
+				{Jamaica Strait}
+				Caribbean Islands National Wildlife Refuge Complex
+					Navassa National Wildlife Refuge
+			[Kansas]
+				{KS}
+				Flint Hills National Wildlife Refuge
+				Great Plains Nature Center
+				Kirwin National Wildlife Refuge
+				Marais des Cygnes National Wildlife Refuge
+				Quivira National Wildlife Refuge
+			[Kentucky]
+				{KY}
+				Clarks River National Wildlife Refuge
+			[Louisiana]
+				{LA}
+				Central Louisiana National Wildlife Refuge Complex
+					Catahoula National Wildlife Refuge
+					Grand Cote National Wildlife Refuge
+					Lake Ophelia National Wildlife Refuge Complex
+				Louisiana Wetland Management District
+				Lower Mississippi River National Wildlife Refuge Complex
+					Bayou Cocodrie National Wildlife Refuge
+					Cat Island National Wildlife Refuge
+				North Louisiana National Wildlife Refuge Complex
+					Black Bayou Lake National Wildlife Refuge
+					D'Arbonne National Wildlife Refuge
+					Handy Brake National Wildlife Refuge
+					Red River National Wildlife Refuge
+					Upper Ouachita National Wildlife Refuge
+				Southeast Louisiana National Wildlife Refuge Complex
+					Atchafalaya National Wildlife Refuge
+					Bayou Sauvage National Wildlife Refuge
+					Bayou Teche National Wildlife Refuge
+					Big Branch Marsh National Wildlife Refuge
+					Bogue Chitto National Wildlife Refuge
+					Breton National Wildlife Refuge
+					Delta National Wildlife Refuge
+					Mandalay National Wildlife Refuge
+				Southwest Louisiana National Wildlife Refuge Complex
+					Cameron Prairie National Wildlife Refuge
+						East Cove Unit
+					Lacassine National Wildlife Refuge
+					Sabine National Wildlife Refuge
+					Shell Keys National Wildlife Refuge
+				Tensas River National Wildlife Refuge
+			[Maine]
+				{ME}
+				Aroostook National Wildlife Refuge
+				Maine Coastal Islands National Wildlife Refuge
+				Moosehorn National Wildlife Refuge
+				Rachel Carson National Wildlife Refuge
+				Sunkhaze Meadows National Wildlife Refuge
+				Umbagog National Wildlife Refuge
+			[Maryland]
+				{MD}
+				Blackwater National Wildlife Refuge
+				Eastern Neck National Wildlife Refuge
+				Glenn Martin National Wildlife Refuge
+				Patuxent Research Refuge
+				Susquehanna National Wildlife Refuge
+			[Massachusetts]
+				{MA}
+				Eastern Massachusetts National Wildlife Refuge Complex
+					Assabet River National Wildlife Refuge
+					Great Meadows National Wildlife Refuge
+					Mashpee National Wildlife Refuge
+					Massasoit National Wildlife Refuge
+					Monomoy National Wildlife Refuge
+					Nantucket National Wildlife Refuge
+					Nomans Land Island National Wildlife Refuge
+					Oxbow National Wildlife Refuge
+				Parker River National Wildlife Refuge
+				Silvio O. Conte National Fish and Wildlife Refuge
+				Thacher Island National Wildlife Refuge
+			[Michigan]
+				{MI}
+				Detroit River International Wildlife Refuge
+				Harbor Islands National Wildlife Refuge
+				Huron National Wildlife Refuge
+				Kirtland's Warbler Wildlife Management Area
+				Michigan Islands National Wildlife Refuge
+				Michigan Wetland Management District
+				Seney National Wildlife Refuge
+				Shiawassee National Wildlife Refuge
+			[Minnesota]
+				{MN}
+				Agassiz National Wildlife Refuge
+				Big Stone National Wildlife Refuge
+				Big Stone Wetland Management District
+				Crane Meadows National Wildlife Refuge
+				Detroit Lakes Wetland Management District
+				Fergus Falls Wetland Management District
+				Glacial Ridge National Wildlife Refuge
+				Hamden Slough National Wildlife Refuge
+				Litchfield Wetland Management District
+				Mille Lacs National Wildlife Refuge
+				Minnesota Valley National Wildlife Refuge
+				Minnesota Valley Wetland Management District
+				Morris Wetland Management District
+				Northern Tallgrass Prairie National Wildlife Refuge
+				Rice Lake National Wildlife Refuge
+				Rydell National Wildlife Refuge
+				Sherburne National Wildlife Refuge
+				Tamarac National Wildlife Refuge
+				Tamarac Wetland Management District
+				Upper Mississippi River National Wildlife and Fish Refuge
+				Windom Wetland Management District
+			[Mississippi]
+				{MS}
+				Gulf Coast Complex
+					Grand Bay National Wildlife Refuge
+					Mississippi Sandhill Crane National Wildlife Refuge
+				Lower Mississippi River National Wildlife Refuge Complex
+			[Missouri]
+				{MO}
+				Big Muddy National Fish and Wildlife Refuge
+				Clarence Cannon National Wildlife Refuge
+				Great River National Wildlife Refuge
+				Middle Mississippi River National Wildlife Refuge
+				Mingo National Wildlife Refuge
+				Ozark Cavefish National Wildlife Refuge
+				Pilot Knob National Wildlife Refuge
+				Squaw Creek National Wildlife Refuge
+				Swan Lake National Wildlife Refuge
+				Two Rivers National Wildlife Refuge
+			[Montana]
+				{MT}
+				Benton Lake National Wildlife Refuge Complex
+					Benton Lake National Wildlife Refuge
+					Benton Lake Wetland Management District
+						Blackfoot Valley Conservation Area
+						Rocky Mountain Front Conservation Area
+						Swan Valley Conservation Area
+					Swan River National Wildlife Refuge
+				Bowdoin National Wildlife Refuge Complex
+					Black Coulee National Wildlife Refuge
+					Bowdoin National Wildlife Refuge
+					Bowdoin Wetland Management District
+					Creedman Coulee National Wildlife Refuge
+					Hewitt Lake National Wildlife Refuge
+					Lake Thibadeau National Wildlife Refuge
+				Charles M. Russell National Wildlife Refuge Complex
+					Charles M. Russell National Wildlife Refuge
+					Charles M. Russell Wetland Management District
+					Hailstone National Wildlife Refuge
+					Halfbreed Lake National Wildlife Refuge
+					Lake Mason National Wildlife Refuge
+					UL Bend National Wildlife Refuge
+					War Horse National Wildlife Refuge
+				Lee Metcalf National Wildlife Refuge
+				Medicine Lake National Wildlife Refuge Complex
+					Medicine Lake National Wildlife Refuge
+					Northeast Montana Wetland Management District
+				National Bison Range National Wildlife Refuge Complex
+					Lost Trail National Wildlife Refuge
+					National Bison Range
+					Ninepipe National Wildlife Refuge
+						{Nine-pipe National Wildlife Refuge}
+					Northwest Montana Flathead County Wetland Management District
+					Northwest Montana Lake County Wetland Management District
+					Pablo National Wildlife Refuge
+				Red Rock Lakes National Wildlife Refuge
+			[Nebraska]
+				{NE}
+				Boyer Chute National Wildlife Refuge
+				Crescent Lake/North Platte National Wildlife Refuge Complex
+					Crescent Lake National Wildlife Refuge
+					North Platte National Wildlife Refuge
+				DeSoto National Wildlife Refuge
+				Fort Niobrara/Valentine National Wildlife Refuge Complex
+					Fort Niobrara National Wildlife Refuge
+					John W. and Louise Seier National Wildlife Refuge
+					Valentine National Wildlife Refuge
+				Rainwater Basin Wetland Management District
+			[Nevada]
+				{NV}
+				Desert National Wildlife Refuge Complex
+					AshMeadows National Wildlife Refuge
+					Desert National Wildlife Refuge
+					Moapa Valley National Wildlife Refuge
+					Pahranagat National Wildlife Refuge
+				Ruby Lake National Wildlife Refuge
+				Sheldon-Hart Mountain National Wildlife Refuge Complex
+					Sheldon National Wildlife Refuge
+				Stillwater National Wildlife Refuge Complex
+					Anaho Island National Wildlife Refuge
+					Fallon National Wildlife Refuge
+					Stillwater National Wildlife Refuge
+			[New Hampshire]
+				{NH}
+				Great Bay National Wildlife Refuge
+				John Hay National Wildlife Refuge
+				Silvio O. Conte National Wildlife Refuge
+				Umbagog National Wildlife Refuge
+				Wapack National Wildlife Refuge
+			[New Jersey]
+				{NJ}
+				Cape May National Wildlife Refuge
+				Edwin B. Forsythe National Wildlife Refuge
+				Great Swamp National Wildlife Refuge
+				Supawna Meadows National Wildlife Refuge
+				Wallkill River National Wildlife Refuge
+			[New Mexico]
+				{NM}
+				Bitter Lake National Wildlife Refuge
+				Bosque del Apache National Wildlife Refuge
+				Grulla National Wildlife Refuge
+				Las Vegas National Wildlife Refuge
+				Maxwell National Wildlife Refuge
+				Rio Mora National Wildlife Refuge
+				San Andres National Wildlife Refuge
+				Sevilleta National Wildlife Refuge
+				Valle de Oro National Wildlife Refuge
+			[New York]
+				{NY}
+				Iroquois National Wildlife Refuge
+				Long Island National Wildlife Refuge Complex
+					Amagansett National Wildlife Refuge
+					Conscience Point National Wildlife Refuge
+					Elizabeth A. Morton National Wildlife Refuge
+					Oyster Bay National Wildlife Refuge
+					Seatuck National Wildlife Refuge
+					Target Rock National Wildlife Refuge
+					Wertheim National Wildlife Refuge
+				Montezuma National Wildlife Refuge
+				Shawangunk Grasslands National Wildlife Refuge
+				Wallkill River National Wildlife Refuge
+			[North Carolina]
+				{NC}
+				Carolina Sandhills National Wildlife Refuge Complex
+					Pee Dee National Wildlife Refuge
+				Mattamuskeet/Swanquarter/Cedar Island National Wildlife Refuge Complex
+					Cedar Island National Wildlife Refuge
+					Mattamuskeet National Wildlife Refuge
+					Swanquarter National Wildlife Refuge
+				North Carolina Coastal Plain National Wildlife Refuge Complex
+					{Coastal North Carolina National Wildlife Refuge Complex}
+					Alligator River National Wildlife Refuge
+					Currituck National Wildlife Refuge
+					Mackay Island National Wildlife Refuge
+					Pea Island National Wildlife Refuge
+					Pocosin Lakes National Wildlife Refuge
+					Roanoke River National Wildlife Refuge
+			[North Dakota]
+				{ND}
+				Arrowwood National Wildlife Refuge Complex
+					Arrowwood National Wildlife Refuge
+					Arrowwood Wetland Management District
+					Chase Lake National Wildlife Refuge
+					Chase Lake Wetland Management District
+						{Chase Lake Prairie Project}
+					Hobart Lake National Wildlife Refuge
+					Valley City Wetland Management District
+				Audubon National Wildlife Refuge Complex
+					Audubon National Wildlife Refuge
+					Audubon Wetland Management District
+					Lake Ilo National Wildlife Refuge
+					Lake Nettie National Wildlife Refuge
+					McLean National Wildlife Refuge
+					Stewart Lake National Wildlife Refuge
+					White Lake National Wildlife Refuge
+				Devils Lake Wetland Management District Complex
+					Devils Lake Wetland Management District
+					Kellys Slough National Wildlife Refuge
+					Lake Alice National Wildlife Refuge
+					Lake Ardoch National Wildlife Refuge
+					Lambs Lake National Wildlife Refuge
+					Rock Lake National Wildlife Refuge
+					Rose Lake National Wildlife Refuge
+					Silver Lake National Wildlife Refuge
+					Stump Lake National Wildlife Refuge
+					Sullys Hill National Game Preserve
+					Wood Lake National Wildlife Refuge
+				Kulm Wetland Management District
+				Long Lake National Wildlife Refuge Complex
+					Appert Lake National Wildlife Refuge
+					Canfield Lake National Wildlife Refuge
+					Florence Lake National Wildlife Refuge
+					Lake George National Wildlife Refuge
+					Long Lake National Wildlife Refuge
+					Long Lake Wetland Management District
+					Slade National Wildlife Refuge
+				Lostwood Wetland Management District Complex
+					Crosby Wetland Management District
+						Lake Zahl National Wildlife Refuge
+					Des Lacs National Wildlife Refuge
+					Lostwood National Wildlife Refuge
+					Lostwood Wetland Management District
+						Shell Lake National Wildlife Refuge
+				Souris River Basin National Wildlife Refuge Complex
+					J. Clark Salyer National Wildlife Refuge
+					J. Clark Salyer Wetland Management District
+					Upper Souris National Wildlife Refuge
+				Tewaukon National Wildlife Refuge Complex
+					Storm Lake National Wildlife Refuge
+					Tewaukon National Wildlife Refuge
+					Tewaukon Wetland Management District
+					Wild Rice Lake National Wildlife Refuge
+			[Northern Mariana Islands]
+				{MP}
+				Mariana Islands Refuges and Monument Complex
+					{Pacific Reefs Refuges and Monument Complex}
+					Mariana Trench Marine National Monument
+						{Marianas Trench Marine National Monument}
+						Mariana Arc of Fire National Wildlife Refuge
+						Mariana Trench National Wildlife Refuge
+			[Ohio]
+				{OH}
+				Cedar Point National Wildlife Refuge
+				Ottawa National Wildlife Refuge
+				West Sister Island National Wildlife Refuge
+			[Oklahoma]
+				{OK}
+				Deep Fork National Wildlife Refuge
+				Little River National Wildlife Refuge
+				Optima National Wildlife Refuge
+				Ozark Plateau National Wildlife Refuge
+				Salt Plains National Wildlife Refuge
+				Sequoyah National Wildlife Refuge
+				Tishomingo National Wildlife Refuge
+				Washita National Wildlife Refuge
+				Wichita Mountains Wildlife Refuge
+			[Oregon]
+				{OR}
+				Deer Flat National Wildlife Refuge
+				Klamath Basin National Wildlife Refuge Complex
+					Bear Valley National Wildlife Refuge
+					Klamath Marsh National Wildlife Refuge
+					Lower Klamath National Wildlife Refuge
+					Upper Klamath National Wildlife Refuge
+				Malheur National Wildlife Refuge
+				Mid-Columbia River National Wildlife Refuge Complex
+					Cold Springs National Wildlife Refuge
+					McKay Creek National Wildlife Refuge
+						{McKay National Wildlife Refuge}
+					Umatilla National Wildlife Refuge
+				Oregon Coastal National Wildlife Refuge Complex
+					Bandon Marsh National Wildlife Refuge
+					Cape Meares National Wildlife Refuge
+					Nestucca Bay National Wildlife Refuge
+					Oregon Islands National Wildlife Refuge
+					Siletz Bay National Wildlife Refuge
+					Three Arch Rocks National Wildlife Refuge
+				Sheldon-Hart Mountain National Wildlife Refuge Complex
+					Hart Mountain National Antelope Refuge
+				Tualatin River National Wildlife Refuge Complex
+					Tualatin River National Wildlife Refuge
+					Wapato Lake National Wildlife Refuge
+				Willamette Valley National Wildlife Refuge Complex
+					Ankeny National Wildlife Refuge
+					Baskett Slough National Wildlife Refuge
+					William L. Finley National Wildlife Refuge
+				Willapa National Wildlife Refuge Complex
+					Julia Butler Hansen National Wildlife Refuge
+						{Julia Butler Hansen Refuge for the Columbian White-tailed Deer}
+			[Pennsylvania]
+				{PA}
+				Cherry Valley National Wildlife Refuge
+				Erie National Wildlife Refuge
+				John Heinz at Tinicum National Wildlife Refuge
+				Ohio River Islands National Wildlife Refuge
+			[Puerto Rico]
+				{PR}
+				Caribbean Islands National Wildlife Refuge Complex
+					Cabo Rojo National Wildlife Refuge
+					Culebra National Wildlife Refuge
+					Desecheo National Wildlife Refuge
+					Laguna Cartagena National Wildlife Refuge
+					Vieques National Wildlife Refuge
+			[Rhode Island]
+				{RI}
+				Block Island National Wildlife Refuge
+				John H. Chafee at Pettaquamscutt Cove National Wildlife Refuge
+				Ninigret National Wildlife Refuge
+				Sachuest Point National Wildlife Refuge
+				Trustom Pond National Wildlife Refuge
+			[South Carolina]
+				{SC}
+				Carolina Sandhills National Wildlife Refuge Complex
+					Carolina Sandhills National Wildlife Refuge
+				Savannah Coastal Refuge National Wildlife Refuge Complex
+					Pinckney Island National Wildlife Refuge
+					Savannah National Wildlife Refuge
+					Tybee National Wildlife Refuge
+				South Carolina Lowcountry National Wildlife Refuge Complex
+					Cape Romain National Wildlife Refuge
+					Ernest F. Hollings ACE Basin National Wildlife Refuge
+						{ACE Basin National Wildlife Refuge}
+					Santee National Wildlife Refuge
+					Waccamaw National Wildlife Refuge
+			[South Dakota]
+				{SD}
+				Huron Wetland Management District
+				Lacreek National Wildlife Refuge Complex
+					Bear Butte National Wildlife Refuge
+					Lacreek National Wildlife Refuge
+					Lacreek Wetland Management District
+				Lake Andes National Wildlife Refuge Complex
+					Karl E Mundt National Wildlife Refuge
+					Lake Andes National Wildlife Refuge
+					Lake Andes Wetland Management District
+				Madison Wetland Management District
+				Sand Lake National Wildlife Refuge Complex
+					Sand Lake National Wildlife Refuge
+					Sand Lake Wetland Management District
+				Waubay National Wildlife Refuge Complex
+					Dakota Tallgrass Prairie Wildlife Management Area
+					Waubay National Wildlife Refuge
+					Waubay Wetland Management District
+			St. Catherine Creek National Wildlife Refuge
+				Mississippi Wetland Management District
+				North Mississippi National Wildlife Refuge Complex
+					Coldwater River National Wildlife Refuge
+					Dahomey National Wildlife Refuge
+					Tallahatchie National Wildlife Refuge
+				Sam D. Hamilton Noxubee National Wildlife Refuge
+					{Noxubee National Wildlife Refuge}
+				Theodore Roosevelt National Wildlife Refuge Complex
+					Hillside National Wildlife Refuge
+					Holt Collier National Wildlife Refuge
+					Mathews Brake National Wildlife Refuge
+					Morgan Brake National Wildlife Refuge
+					Panther Swamp National Wildlife Refuge
+					Theodore Roosevelt National Wildlife Refuge
+					Yazoo National Wildlife Refuge
+			[Tennessee]
+				{TN}
+				Tennessee National Wildlife Refuge Complex
+					Cross Creeks National Wildlife Refuge
+					Tennessee National Wildlife Refuge
+				West Tennessee National Wildlife Refuge Complex
+					Chickasaw National Wildlife Refuge
+					Hatchie National Wildlife Refuge
+					Lake Isom National Wildlife Refuge
+					Lower Hatchie National Wildlife Refuge
+					Reelfoot National Wildlife Refuge
+			[Texas]
+				{TX}
+				Aransas National Wildlife Refuge
+				Attwater Prairie Chicken National Wildlife Refuge
+				Balcones Canyonlands National Wildlife Refuge
+				Buffalo Lake National Wildlife Refuge
+				Caddo Lake National Wildlife Refuge
+				Hagerman National Wildlife Refuge
+				Laguna Atascosa National Wildlife Refuge
+				Little Sandy National Wildlife Refuge
+				Lower Rio Grande Valley National Wildlife Refuge
+				Muleshoe National Wildlife Refuge
+				Neches National Wildlife Refuge
+				Santa Ana National Wildlife Refuge
+				Texas Chenier Plain Refuges Complex
+					Anahuac National Wildlife Refuge
+					McFaddin National Wildlife Refuge
+					Moody National Wildlife Refuge
+					Texas Point National Wildlife Refuge
+				Texas Mid-coast Refuge Complex
+					Big Boggy National Wildlife Refuge
+					Brazoria National Wildlife Refuge
+					San Bernard National Wildlife Refuge
+				Trinity River National Wildlife Refuge
+			[US Minor Outlying Islands]
+				Pacific Remote Islands Marine National Monument
+					Baker Island National Wildlife Refuge
+					Howland Island National Wildlife Refuge
+					Jarvis Island National Wildlife Refuge
+					Johnston Atoll National Wildlife Refuge
+					Kingman Reef National Wildlife Refuge
+					Palmyra Atoll National Wildlife Refuge
+					Wake Atoll National Wildlife Refuge
+			[US Virgin Islands]
+				{USVI}
+				{VI}
+				{Virgin Islands}
+				Caribbean Islands National Wildlife Refuge Complex
+					Buck Island National Wildlife Refuge
+					Green Cay National Wildlife Refuge
+					Sandy Point National Wildlife Refuge
+			[Utah]
+				{UT}
+				Bear River Migratory Bird Refuge
+				Fish Springs National Wildlife Refuge
+				Lower Green River National Wildlife Refuge Complex
+					Colorado River Wildlife Management Area
+					Ouray National Wildlife Refuge
+			[Vermont]
+				{VT}
+				Missisquoi National Wildlife Refuge
+				Silvio O. Conte National Fish and Wildlife Refuge
+			[Virginia]
+				{VA}
+				Back Bay National Wildlife Refuge
+				Chincoteague National Wildlife Refuge
+				Eastern Shore of Virginia National Wildlife Refuge
+				Featherstone National Wildlife Refuge
+				Fisherman Island National Wildlife Refuge
+				Glenn Martin National Wildlife Refuge
+				Great Dismal Swamp National Wildlife Refuge
+				James River National Wildlife Refuge
+				Mason Neck National Wildlife Refuge
+				Nansemond National Wildlife Refuge
+				Occoquan Bay National Wildlife Refuge
+				Plum Tree Island National Wildlife Refuge
+				Presquile National Wildlife Refuge
+				Rappahannock River Valley National Wildlife Refuge
+				Wallops Island National Wildlife Refuge
+			[Washington]
+				{WA}
+				Inland Northwest National Wildlife Refuge Complex
+					Little Pend Oreille National Wildlife Refuge
+					Turnbull National Wildlife Refuge
+				Mid-Columbia River National Wildlife Refuge Complex
+					Columbia National Wildlife Refuge
+					Conboy Lake National Wildlife Refuge
+					Hanford Reach National Monument
+						Saddle Mountain National Wildlife Refuge
+					McNary National Wildlife Refuge
+					Toppenish National Wildlife Refuge
+					Umatilla National Wildlife Refuge
+				Nisqually National Wildlife Refuge Complex
+					Billy Frank Jr. Nisqually National Wildlife Refuge
+						{Nisqually National Wildlife Refuge}
+					Grays Harbor National Wildlife Refuge
+				Ridgefield National Wildlife Refuge Complex
+					Franz Lake National Wildlife Refuge
+					Pierce National Wildlife Refuge
+					Ridgefield National Wildlife Refuge
+					Steigerwald Lake National Wildlife Refuge
+				Washington Maritime National Wildlife Refuge Complex
+					Copalis National Wildlife Refuge
+					Dungeness National Wildlife Refuge
+					Flattery Rocks National Wildlife Refuge
+					Protection Island National Wildlife Refuge
+					Quillayute Needles National Wildlife Refuge
+					San Juan Islands National Wildlife Refuge
+				Willapa National Wildlife Refuge Complex
+					Julia Butler Hansen National Wildlife Refuge
+						{Julia Butler Hansen Refuge for the Columbian White-tailed Deer}
+					Lewis & Clark National Wildlife Refuge
+					Willapa National Wildlife Refuge
+			[West Virginia]
+				{WV}
+				Canaan Valley National Wildlife Refuge
+				Ohio River Islands National Wildlife Refuge
+			[Wisconsin]
+				{WI}
+				Driftless Area National Wildlife Refuge
+				Hackmatack National Wildlife Refuge
+				Horicon Leopold National Wildlife Refuge Complex
+					Fox River National Wildlife Refuge
+					Gravel Island National Wildlife Refuge
+					Green Bay National Wildlife Refuge
+					Horicon National Wildlife Refuge
+					Leopold Wetland Management District
+				Necedah National Wildlife Refuge
+				St. Croix Wetland Management District
+				Trempealeau National Wildlife Refuge
+				Upper Mississippi River National Wildlife and Fish Refuge
+				Whittlesey Creek National Wildlife Refuge
+			[Wyoming]
+				{WY}
+				Arapaho National Wildlife Refuge Complex
+					Bamforth National Wildlife Refuge
+					Hutton Lake National Wildlife Refuge
+					Mortenson Lake National Wildlife Refuge
+					Pathfinder National Wildlife Refuge
+				National Elk Refuge
+				Seedskadee and Cokeville Meadows National Wildlife Refuge Complex
+					Cokeville Meadows National Wildlife Refuge
+					Seedskadee National Wildlife Refuge
+

@@ -1,0 +1,365 @@
+[Parks - State]
+	[New York]
+		{NY}
+		[Allegany Region]
+			Bemus Point
+				Long Point State Park on Lake Chautauqua
+					{Long Point State Park}
+				Midway State Park
+			Brocton
+				Lake Erie State Park
+			Salamanca
+				Allegany State Park - Quaker Area
+					{Allegany State Park}
+				Allegany State Park - Red House Area
+					{Allegany State Park}
+		[Central Region]
+			Bainbridge
+				Oquaga Creek State Park
+			Boonville
+				Pixley Falls State Park
+			Cazenovia
+				Chittenango Falls State Park
+			Chenango Forks
+				Chenango Valley State Park
+			Cooperstown
+				Glimmerglass State Park
+			Davenport
+				Robert V. Riddell State Park
+			Dewitt/Rome
+				Old Erie Canal State Historic Park
+			Fayetteville
+				Green Lakes State Park
+			Fulton
+				Battle Island State Park
+			Jamesville
+				Clark Reservation State Park
+			Laurens
+				Gilbert Lake State Park
+			Mexico
+				Mexico Point Boat Launch
+			Oxford
+				Bowman Lake State Park
+			Pulaski
+				Pine Grove Boat Launch
+				Sandy Island Beach State Park
+				Selkirk Shores State Park
+			Rome
+				Delta Lake State Park
+			Syracuse
+				State Park at the Fair
+			Verona Beach
+				Verona Beach State Park
+			Westford
+				Betty and Wilbur Davis State Park
+		[Finger Lakes Region]
+			Addison
+				Pinnacle State Park and Golf Course
+			Aurora
+				Long Point State Park
+			Bluff Point
+				Keuka Lake State Park
+			Canadaigua
+				Canandaigua Lake State Marine Park
+			Dansville
+				Stony Brook State Park
+			Elmira
+				Newtown Battlefield State Park
+			Fair Haven
+				Fair Haven Beach State Park
+			Geneva
+				Seneca Lake State Park
+			Honeoye
+				Honeoye Lake Boat Launch State Park
+			Horseheads
+				Mark Twain State Park
+				Soaring Eagles Golf Course
+			Ithaca
+				Allan H. Treman State Marine Park
+				Buttermilk Falls State Park
+				Robert H. Treman State Park
+			Lodi
+				Lodi Point State Park
+			Moravia
+				Fillmore Glen State Park
+			Ovid
+				Bonavista State Park Golf Course
+			Romulus
+				Sampson State Park
+			Seneca Falls
+				Cayuga Lake State Park
+				Deans Cove Boat Launch
+			Springwater
+				Harriet Hollister Spencer State Recreation Area
+			Trumansburg
+				Taughannock Falls State Park
+			Watkins Glen
+				Catharine Valley Trail
+				Watkins Glen State Park
+			Waverly
+				Two Rivers State Park Recreation Area
+			Wolcott
+				Chimney Bluffs State Park
+		[Genesee Region]
+			Carlton
+				Oak Orchard State Marine Park
+			Castile
+				Conesus Lake Boat Launch
+				Genesee Valley Greenway State Park
+				Letchworth State Park
+				Silver Lake State Park
+			Darien Center
+				Darien Lakes State Park
+			Hamlin
+				Hamlin Beach State Park
+			Irondequoit
+				Irondequoit Bay State Marine Park
+			Waterport
+				Lakeside Beach State Park
+		[Long Island Region]
+			Babylon
+				Captree State Park
+				Gilgo State Park
+				Robert Moses State Park
+			Brentwood
+				Brentwood State Park
+			Cold Spring Harbor
+				Cold Spring Harbor State Park
+			East Islip
+				Heckscher State Park
+			Farmingdale
+				Bethpage State Park
+			Great River
+				Bayard Cutting Arboretum State Park
+			Huntington
+				Caumsett State Historic Park Preserve
+			Kings Park
+				Nissequogue River State Park
+				Sunken Meadow State Park
+					{Governor Alfred E. Smith State Park}
+			Montauk
+				Camp Hero State Park
+				Hither Hills State Park
+				Montauk Downs State Park
+				Montauk Point State Park
+				Shadmoor State Park
+			North Babylon
+				Belmont Lake State Park
+			Oakdale
+				Connetquot River State Park Preserve
+			Orient
+				Orient Beach State Park
+			Smithtown
+				Caleb Smith State Park Preserve
+			Valley Stream
+				Valley Stream State Park
+			Wading River
+				Brookhaven State Park
+				Wildwood State Park
+			Wantagh
+				Jones Beach State Park
+			West Hempstead
+				Hempstead Lake State Park
+			Woodbury
+				Trail View State Park
+		[New York City Region]
+			Bronx
+				Roberto Clemente State Park
+			Brooklyn
+				East River State Park
+			Far Rockaway
+				Bayswater Point State Park
+			Long Island City
+				Gantry Plaza State Park
+			New York
+				Franklin D. Roosevelt Four Freedoms State Park
+				Riverbank State Park
+			Staten Island
+				Clay Pit Ponds State Park Preserve
+		[Niagara Region]
+			Barker
+				Golden Hill State Park
+			Blasdell
+				Woodlawn Beach State Park
+			Buffalo
+				Buffalo Harbor State Park
+			East Aurora
+				Knox Farm State Park
+			Grand Island
+				Beaver Island State Park
+				Big Six Mile Creek Marina
+				Buckhorn Island State Park
+			Irving
+				Evangola State Park
+			Lewiston
+				Artpark State Park
+					{Earl W. Brydges Artpark}
+					{Earl W. Brydges State Park}
+				Joseph Davis State Park
+			Niagara Falls
+				De Veaux Woods State Park
+				Devil's Hole State Park
+				Niagara Falls State Park
+				Reservoir State Park
+				Whirlpool State Park
+			Wilson
+				Wilson-Tuscarora State Park
+			Youngstown
+				Fort Niagara State Park
+				Four Mile Creek State Park
+		[Palisades Region]
+			Bear Mountain
+				Bear Mountain State Park
+				Harriman State Park - Anthony Wayne Recreation Area
+					{Harriman State Park}
+				Harriman State Park - Lake Sebago Beach
+					{Harriman State Park}
+				Harriman State Park - Silver Mine
+					{Harriman State Park}
+			Bethel
+				Lake Superior State Park
+			Blauvelt
+				Blauvelt State Park
+			Chester
+				Goosepond Mountain State Park
+			Cornwall-on-Hudson
+				Storm King State Park
+					Storm King Mountain
+			Cragsmoor
+				Minnewaska State Park Preserve - Sam's Point Area
+					{Mennewaska State Park Preserve}
+			Harriman State Park
+				Harriman State Park - Sebago Cabin Camp
+					{Harriman State Park}
+			Highland
+				Franny Reese State Park
+			Kerhonkson
+				Minnewaska State Park Preserve
+			Middletown
+				Highland Lakes State Park
+			New City
+				High Tor State Park
+			Orange County
+				Schunnemunk State Park
+			Ramapo
+				Harriman State Park
+			Southfields
+				Harriman State Park - Lake Tiorati Beach
+					{Harriman State Park}
+			Sparkill
+				Tallman Mountain State Park
+			Stony Point
+				Harriman State Park - Beaver Pond Campgrounds
+					{Harriman State Park}
+				Harriman State Park - Lake Welch Beach
+					{Harriman State Park}
+			Tuxedo
+				Sterling Forest State Park
+			Upper Nyack
+				Nyack Beach State Park
+			Valley Cottage
+				Rockland Lake State Park
+		[Saratoga/Capital District Region]
+			Cohoes
+				Peebles Island State Park
+			Coxsackie
+				Hudson River Islands State Park
+			Cropseyville
+				Grafton Lakes State Park
+			East Berne
+				Thacher State Park - Thompson's Lake Campground
+					{Thacher State Park}
+			Fultonham
+				Max V. Shaul State Park
+			Gansevoort
+				Moreau Lake State Park
+			North Blenheim
+				Mine Kill State Park
+			Petersburg
+				Cherry Plain State Park
+			Saratoga Springs
+				Saratoga Lake State Boat Launch
+				Saratoga Spa State Park
+			Schodack Landing
+				Schodack Island State Park
+			Voorheesville
+				Thacher State Park
+		[Taconic Region]
+			Ancram
+				Lake Taghkanic State Park
+			Beacon
+				Hudson Highlands State Park Preserve
+					Bannerman Island
+						{Pollepel Island}
+						Bannerman Castle
+					Breakneck Ridge
+			Carmel
+				Fahnestock State Park
+					{Clarence Fahnestock Memorial State Park}
+				Fahnestock Winter Park
+				Wonder Lake State Park
+			Copake Falls
+				Taconic State Park - Copake Falls Area
+					{Taconic State Park}
+			Dobbs Ferry
+				Old Croton Aqueduct State Historic Park
+			Millerton
+				Taconic State Park - Rudd Pond Area
+					{Taconic State Park}
+			Pleasant Valley
+				James Baird State Park
+			Pleasantville
+				Rockefeller State Park Preserve
+			Poughkeepsie
+				Walkway Over the Hudson State Historic Park
+			Staatsburg
+				Mills Norrie State Park
+					{Margaret Lewis Norrie State Park}
+				Ogden Mills & Ruth Livingston Mills State Park
+			Yorktown Heights
+				Franklin D. Roosevelt State Park
+		[Thousand Islands Region]
+			1000 Islands
+				Mary Island State Park
+			Alexandria Bay
+				Grass Point State Park
+				Keewaydin State Park
+			Cape Vincent
+				Burnham Point State Park
+			Clayton
+				Canoe-Picnic Point State Park
+				Cedar Point State Park
+			Colton
+				Higley Flow State Park
+			Fineview
+				Dewolf Point State Park
+				Waterson Point State Park
+				Wellesley Island State Park
+			Fisher's Landing
+				Rock Island Lighthouse State Park
+			Hammond
+				Cedar Island State Park
+			Henderson
+				Robert G. Wehle State Park
+				Southwick Beach State Park
+				Westcott Beach State Park
+			Lowville
+				Whetstone Gulf State Park
+			Massena
+				Robert Moses State Park
+			Morristown
+				Jacques Cartier State Park
+			Ogdensburg
+				Eel Weir State Park
+				St. Lawrence State Park Golf Course
+			Plattsburgh
+				Cumberland Bay State Park
+				Point Au Roche State Park
+			Redwood
+				Kring Point State Park
+			Schuyler Falls
+				Macomb Reservation State Park
+			Three Mile Bay
+				Long Point State Park
+			Waddington
+				Coles Creek State Park
