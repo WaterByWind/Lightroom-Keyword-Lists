@@ -4,7 +4,7 @@ Controlled-vocabulary of various parklands, preserves, refuges, and similar prop
 
 Partly inspired by the [Lightroom Keyword List Project](http://lightroom-keyword-list-project.blogspot.gr) these are being offered as additional specialized supplemental lists for those that may be interested in such detailed tagging.
 
-In particular, landscape and nature photographers may desire to tag and categorize the locations of their work for various reasons.  Such photography often takes place in parklands, preserves, and refuges and the ability to note these locations as metadata for each capture may be useful or interesting.  The lists here are intended for such use.
+In particular, landscape, nature, and wildlife photographers may desire to tag and categorize the locations of their work for various reasons.  Such photography often takes place in parklands, preserves, and refuges and the ability to note these locations as metadata for each capture may be useful or interesting.  The lists here are intended for such use.
 
 The keyword lists here are an attempt to create a controlled vocabulary to facilitate consistency and simplify creation and use of such key-wording.  Note that in most cases only the name of the park/preserve will be exported by default, such as when sharing to social media or online photo libraries and sharing sites.  It is the park/preserve nomenclature that is relevant for this controlled vocabulary, and there are many other methodologies for geographical tagging.  These lists are organized within Lightroom using a geographical hierarchy but that detail would not be exported as-is for that reason.
 
@@ -47,12 +47,16 @@ This may be easier to use than the listing including management complexes, and i
 
 ### Parks-State-_XX_.txt
 Hierarchical list of individual state park units.
+#### Parks-State-NJ.txt
+Sourced from [NJ DEP Park Directory](http://www.state.nj.us/dep/parksandforests/parks/parkindex.html)
+#### Parks-State-NY.txt
+Sourced from [NY DEC](http://www.dec.ny.gov) and [NY OPRHP](http://nysparks.com), organized into separate hierarchies due to the total number of items.  The latter is likely to be more commonly used so separate hierarchies keeps the list more useable.
 
 ### Parks-County-_XX_.txt
-Hierarchical list of county parklands within each state.
+Hierarchical list of county parklands within each state.  Not all counties may be listed but those that are listed should be complete as known.
 
 ### Parks-Town-_XX_.txt
-Hierarchical list of town parklands within each state.
+Hierarchical list of town/township/city parklands within each state.  Not all towns/townships/cities may be listed but those that are listed should be complete as known.
 
-### Parks-Other.txt
+### Parks-Other-_XX_.txt
 Hierarchical list of parks that do not fit within any of the above categories.  These include privately owned/managed lands, estates, trust/foundation properties, and similar.
