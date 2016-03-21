@@ -1,365 +1,1214 @@
 [Parks - State]
 	[New York]
 		{NY}
-		[Allegany Region]
-			Bemus Point
-				Long Point State Park on Lake Chautauqua
-					{Long Point State Park}
-				Midway State Park
-			Brocton
-				Lake Erie State Park
-			Salamanca
-				Allegany State Park - Quaker Area
-					{Allegany State Park}
-				Allegany State Park - Red House Area
-					{Allegany State Park}
-		[Central Region]
-			Bainbridge
-				Oquaga Creek State Park
-			Boonville
-				Pixley Falls State Park
-			Cazenovia
-				Chittenango Falls State Park
-			Chenango Forks
-				Chenango Valley State Park
-			Cooperstown
-				Glimmerglass State Park
-			Davenport
-				Robert V. Riddell State Park
-			Dewitt/Rome
-				Old Erie Canal State Historic Park
-			Fayetteville
-				Green Lakes State Park
-			Fulton
-				Battle Island State Park
-			Jamesville
-				Clark Reservation State Park
-			Laurens
-				Gilbert Lake State Park
-			Mexico
-				Mexico Point Boat Launch
-			Oxford
-				Bowman Lake State Park
-			Pulaski
-				Pine Grove Boat Launch
-				Sandy Island Beach State Park
-				Selkirk Shores State Park
-			Rome
-				Delta Lake State Park
-			Syracuse
-				State Park at the Fair
-			Verona Beach
-				Verona Beach State Park
-			Westford
-				Betty and Wilbur Davis State Park
-		[Finger Lakes Region]
-			Addison
-				Pinnacle State Park and Golf Course
-			Aurora
-				Long Point State Park
-			Bluff Point
-				Keuka Lake State Park
-			Canadaigua
-				Canandaigua Lake State Marine Park
-			Dansville
-				Stony Brook State Park
-			Elmira
-				Newtown Battlefield State Park
-			Fair Haven
-				Fair Haven Beach State Park
-			Geneva
-				Seneca Lake State Park
-			Honeoye
-				Honeoye Lake Boat Launch State Park
-			Horseheads
-				Mark Twain State Park
-				Soaring Eagles Golf Course
-			Ithaca
-				Allan H. Treman State Marine Park
-				Buttermilk Falls State Park
-				Robert H. Treman State Park
-			Lodi
-				Lodi Point State Park
-			Moravia
-				Fillmore Glen State Park
-			Ovid
-				Bonavista State Park Golf Course
-			Romulus
-				Sampson State Park
-			Seneca Falls
-				Cayuga Lake State Park
-				Deans Cove Boat Launch
-			Springwater
-				Harriet Hollister Spencer State Recreation Area
-			Trumansburg
-				Taughannock Falls State Park
-			Watkins Glen
-				Catharine Valley Trail
-				Watkins Glen State Park
-			Waverly
-				Two Rivers State Park Recreation Area
-			Wolcott
-				Chimney Bluffs State Park
-		[Genesee Region]
-			Carlton
-				Oak Orchard State Marine Park
-			Castile
-				Conesus Lake Boat Launch
-				Genesee Valley Greenway State Park
-				Letchworth State Park
-				Silver Lake State Park
-			Darien Center
-				Darien Lakes State Park
-			Hamlin
-				Hamlin Beach State Park
-			Irondequoit
-				Irondequoit Bay State Marine Park
-			Waterport
-				Lakeside Beach State Park
-		[Long Island Region]
-			Babylon
-				Captree State Park
-				Gilgo State Park
-				Robert Moses State Park
-			Brentwood
-				Brentwood State Park
-			Cold Spring Harbor
-				Cold Spring Harbor State Park
-			East Islip
-				Heckscher State Park
-			Farmingdale
-				Bethpage State Park
-			Great River
-				Bayard Cutting Arboretum State Park
-			Huntington
-				Caumsett State Historic Park Preserve
-			Kings Park
-				Nissequogue River State Park
-				Sunken Meadow State Park
-					{Governor Alfred E. Smith State Park}
-			Montauk
-				Camp Hero State Park
-				Hither Hills State Park
-				Montauk Downs State Park
-				Montauk Point State Park
-				Shadmoor State Park
-			North Babylon
-				Belmont Lake State Park
-			Oakdale
-				Connetquot River State Park Preserve
-			Orient
-				Orient Beach State Park
-			Smithtown
-				Caleb Smith State Park Preserve
-			Valley Stream
-				Valley Stream State Park
-			Wading River
-				Brookhaven State Park
-				Wildwood State Park
-			Wantagh
-				Jones Beach State Park
-			West Hempstead
-				Hempstead Lake State Park
-			Woodbury
-				Trail View State Park
-		[New York City Region]
-			Bronx
-				Roberto Clemente State Park
-			Brooklyn
-				East River State Park
-			Far Rockaway
-				Bayswater Point State Park
-			Long Island City
-				Gantry Plaza State Park
-			New York
-				Franklin D. Roosevelt Four Freedoms State Park
-				Riverbank State Park
-			Staten Island
-				Clay Pit Ponds State Park Preserve
-		[Niagara Region]
-			Barker
-				Golden Hill State Park
-			Blasdell
-				Woodlawn Beach State Park
-			Buffalo
-				Buffalo Harbor State Park
-			East Aurora
-				Knox Farm State Park
-			Grand Island
-				Beaver Island State Park
-				Big Six Mile Creek Marina
-				Buckhorn Island State Park
-			Irving
-				Evangola State Park
-			Lewiston
-				Artpark State Park
-					{Earl W. Brydges Artpark}
-					{Earl W. Brydges State Park}
-				Joseph Davis State Park
-			Niagara Falls
-				De Veaux Woods State Park
-				Devil's Hole State Park
-				Niagara Falls State Park
-				Reservoir State Park
-				Whirlpool State Park
-			Wilson
-				Wilson-Tuscarora State Park
-			Youngstown
-				Fort Niagara State Park
-				Four Mile Creek State Park
-		[Palisades Region]
-			Bear Mountain
-				Bear Mountain State Park
-				Harriman State Park - Anthony Wayne Recreation Area
-					{Harriman State Park}
-				Harriman State Park - Lake Sebago Beach
-					{Harriman State Park}
-				Harriman State Park - Silver Mine
-					{Harriman State Park}
-			Bethel
-				Lake Superior State Park
-			Blauvelt
-				Blauvelt State Park
-			Chester
-				Goosepond Mountain State Park
-			Cornwall-on-Hudson
-				Storm King State Park
-					Storm King Mountain
-			Cragsmoor
-				Minnewaska State Park Preserve - Sam's Point Area
-					{Mennewaska State Park Preserve}
-			Harriman State Park
-				Harriman State Park - Sebago Cabin Camp
-					{Harriman State Park}
-			Highland
-				Franny Reese State Park
-			Kerhonkson
-				Minnewaska State Park Preserve
-			Middletown
-				Highland Lakes State Park
-			New City
-				High Tor State Park
-			Orange County
-				Schunnemunk State Park
-			Ramapo
+		[Department of Environmental Conservation]
+			{DEC}
+			[Capital Region/Northern Catskills]
+				Arctic-China State Forest
+				Armlin Hill State Forest
+				Arnold Lake State Forest
+				Ashland Pinnacle State Forest
+				Barbour Brook State Forest
+				Basswood Pond State Forest
+				Bates State Forest
+				Beals Pond State Forest
+				Bear Spring Mountain Campground
+				Bear Spring Mountain Wildlife Management Area
+				Bear Swamp State Forest
+				Bearpen Mountain State Forest
+				Beebe Hill State Forest
+				Berlin State Forest
+				Black Creek Marsh Wildlife Management Area
+				Blenheim Hill State Forest
+				Burnt-Rossman Hills State Forest
+				Cairo Lockwood State Forest
+				Calhoun Creek State Forest
+				Capital District Wildlife Management Area
+				Charleston State Forest
+				Cherry Valley State Forest
+				Clapper Hollow State Forest
+				Cole Hill State Forest
+				Colgate Lake Wild Forest
+				Columbia Lake State Forest
+				Cotton Hill State Forest
+				Crumhorn Mountain Wildlife Management Area
+				Decatur State Forest
+				Delaware Wild Forest
+				Devils Tombstone Campground
+				Dry Brook Ridge Wild Forest
+				Dutch Settlement State Forest
+				Dutton Ridge State Forest
+				Elm Ridge Wild Forest
+				Exeter State Forest
+				Featherstonhaugh State Forest
+				Franklinton Vlaie Wildlife Management Area
+				Gates Hill State Forest
+				General Jacob Morris State Forest
+				Great Vly Wetland Preservation Area
+				Halcott Mountain Wild Forest
+				Hand Hollow State Forest
+				Hartwick State Forest
+				Harvey Mountain State Forest
+				High Knob State Forest
+				Honey Hill State Forest
+				Hooker Mountain State Forest
+				Hooker Mountain Wildlife Management Area
+				Hunter-West Kill Wilderness
+				Huntersfield State Forest
+				Indian Head Wilderness
+				Kaaterskill Wild Forest
+				Kerryville State Forest
+				Keyserkill State Forest
+				Leonard Hill State Forest
+				Little Pond Campground
+				Lost Valley State Forest
+				Louise E. Keir Wildlife Management Area
+				Lutheranville State Forest
+				Mallet Pond State Forest
+				Maple Valley State Forest
+				Margaret Burke Wildlife Management Area
+				Michigan Hill State Forest
+				Milford State Forest
+				Mount Hayden State Forest
+				Mount Hayden Wild Forest
+				Mount Pisgah State Forest
+				Murphy Hill State Forest
+				New Forge State Forest
+				North South Lake Campground
+				Nutten Hook Unique Area
+				Partridge Run State Forest
+				Partridge Run State Wildlife Management Area
+				Patria State Forest
+				Petersburg State Forest
+				Phoenicia - Mt. Tobias Wild Forest
+				Pine Hill State Forest
+				Pittstown State Forest
+				Plainfield State Forest
+				Plattekill State Forest
+				R. Milton Hick Memorial State Forest
+				Relay State Forest
+				Rensselaerville State Forest
+				Rogers Island Wildlife Management Area
+				Roseboom State Forest
+				Rural Grove State Forest
+				Rusk Mountain Wild Forest
+				Scott Patent State Forest
+				Shandaken Wild Forest
+				South Hill State Forest
+				South Mountain State Forest
+				Steam Mill State Forest
+				Stone Store State Forest
+				Susquehanna State Forest
+				Taconic Ridge State Forest
+				Texas School House State Forest
+				Tibbitts State Forest
+				Tomannex State Forest
+				Vinegar Hill Wildlife Management Area
+				Wagner Farm State Forest
+				Windham-Blackhead Range Wilderness
+				Wolf Hollow Wildlife Management Area
+				Yatesville Falls State Forest
+			[Central New York]
+				Altmar State Forest
+				Ambler State Forest
+				Andersen Hill State Forest
+				Baker School House State Forest
+				Balsam Swamp State Forest
+				Basswood State Forest
+				Battle Hill State Forest
+				Bear Swamp State Forest
+				Beaver Creek State Forest
+				Beaver Dam State Forest
+				Beaver Flow State Forest
+				Beaver Meadow State Forest
+				Beaver Pond State Forest
+				Bobell State Forest
+				Brookfield Railroad State Forest
+				Buck's Brook State Forest
+				Bucks Brook State Forest
+				Bumps Creek State Forest
+				Camillus Forest Unique Area
+				Camillus Unique Area
+				Carpenter Falls Unique Area
+				Cascade Valley State Forest
+				Cat Hollow State Forest
+				Charles E. Baker State Forest
+					{Charles Baker State Forest}
+				Chateaugay State Forest
+				Cicero Swamp Wildlife Management Area
+				Cliffside State Forest
+				Connecticut Hill Wildlife Management Area
+				Coventry State Forest
+				Cross Lake Islands Wildlife Management Area
+				Curtiss Gale Wildlife Management Area
+				Cuyler Hill State Forest
+				Danby State Forest
+				Deer Creek Marsh Wildlife Management Area
+				DeRuyter State Forest
+				Dog Hollow State Forest
+				Donahue Woods State Forest
+				Earlville State Forest
+				Fairfield State Forest
+				Five Streams State Forest
+				Frozen Ocean State Forest
+				Gee Brook State Forest
+				Gee Brook's Calico Pond Camping Area
+				Genegantslet State Forest
+				Gorton Lake State Forest
+				Griggs Gulf State Forest
+				Hall Island State Forest
+				Hamlin Marsh Wildlife Management Area
+				Hammond Hill State Forest
+				Happy Valley Wildlife Management Area
+				Hawkins Pond State Forest
+				Hewitt State Forest
+				Hoxie Gorge State Forest
+				Hunts Pond State Forest
+				James Kennedy State Forest
+				Jenksville State Forest
+				Kasoag State Forest
+				Kennedy State Forest
+				Ketchumville State Forest
+				Kettlebail State Forest
+				Klondike State Forest
+				Labrador Hollow Unique Area
+				Lebanon State Forest
+				Lincklaen State Forest
+				Little John Wildlife Management Area
+				Long Pond State Forest
+				Ludlow Creek State Forest
+				Lyon Brook State Forest
+				Mariposa State Forest
+				Marsh Pond State Forest
+				Maxon Creek State Forest
+				McDonough State Forest
+				Melondy Hill State Forest
+				Michigan Hill State Forest
+				Morgan Hill State Forest
+				Morrow Mountain State Forest
+				Muller Hill State Forest
+				Nanticoke Lake Multiple Use Area
+				Nelson Swamp Unique Area
+				Newfield State Forest
+				Northern Montezuma Wildlife Management Area
+				O'Hara State Forest
+				Oak Ridge State Forest
+				Oakley Corners State Forest
+				Oneida State Hatchery
+				Orton Hollow State Forest
+				Otselic State Forest
+				Papish Pond Multiple Use Area
+				Perkins Pond State Forest
+				Pharsalia State Wildlife Management Area
+				Pharsalia Woods State Forest
+				Pigeon Hill State Forest
+				Pine Ridge State Forest
+				Pitcher Springs State Forest
+				Potato Hill State Forest
+				Red Brook State Forest
+				Robinson Hollow State Forest
+				Salmon River Falls Unique Area
+				Salmon River Fish Hatchery
+				Salmon River State Forest
+				Sandy Creek State Forest
+				Shindagin Hollow State Forest
+				Skinner Hill State Forest
+				Skyline Drive State Forest
+				South Hill State Forest
+				Stone Hill State Forest
+				Stoney Pond State Forest
+				Summer Hill State Forest
+				Taylor Valley State Forest
+				Texas Hill State Forest
+				Three Mile Bay Wildlife Management Area
+				Three Rivers Wildlife Management Area
+				Three Springs State Forest
+				Tioughnioga Wildlife Management Area
+				Tracy Creek State Forest
+				Triangle State Forest
+				Trout Brook State Forest
+				Tuller Hill State Forest
+				Turkey Hill State Forest
+				West Osceola State Forest
+				Whaupaunaucau State Forest
+				Whitacker Swamp State Forest
+				Whitney Point Multiple Use Area
+				Wiley Brook State Forest
+				Winona State Forest
+				Yellow Barn State Forest
+			[Eastern Adirondacks/Lake Champlain]
+				Adirondack Fish Hatchery
+				Adirondack Mountain Reserve
+				Ausable Marsh Wildlife Management Area
+				Ausable Point Campground
+				Battenkill State Forest
+				Big Tupper Conservation Easement Lands
+				Blue Mountain Wild Forest
+				Blue Ridge Wilderness
+				Bog River Flow
+					{Lows Lake}
+				Bombay State Forest
+				Brown Tract Pond Campground
+				Buck Pond Campground
+				Burnt Hill State Forest
+				Cadyville State Forest
+				Camp Santanoni Historic Area
+				Caroga Lake Campground
+				Carters Pond Wildlife Management Area
+				Chateaugay Fish Hatchery
+				Chazy Highlands State Forest
+				Chazy Highlands Wild Forest
+				Chestnut Woods State Forest
+				Crown Point Campground
+				Daketown State Forest
+				Daniel's Road State Forest
+				Debar Mountain Wild Forest
+				Deer River State Forest
+				Dix Mountain Wilderness
+				Dunkins Reserve State Forest
+				Eagle Point Campground
+				East Bay Wildlife Management Area
+				Eighth Lake Campground
+				Eldridge Swamp State Forest
+				Essex Chain Lakes Complex
+				Ferris Lake Wild Forest
+				Fish Creek Pond Campground
+				Flat Rock State Forest
+				Forked Lake Campground
+				Franklin 10 State Forest
+				Giant Mountain Wilderness
+				Golden Beach Campground
+				Goose Egg State Forest
+				Hammond Pond Wild Forest
+				Hearthstone Point Campground
+				High Peaks Wilderness
+				Hoffman Notch Wilderness
+				Hudson Gorge Wilderness
+				Hudson River Special Management Area
+				Hurricane Mountain Wilderness
+				Indian Lake Islands Campground
+				Jay Mountain Wilderness
+				Jessup River Wild Forest
+				Kings Bay Wildlife Management Area
+				Kushaqua Tract Conservation Easement Lands
+				Lake Alice Wildlife Management Area
+				Lake Desolation State Forest
+				Lake Durant Campground
+				Lake Eaton Campground
+				Lake George Battlefield Day Use Area
+				Lake George Battleground Campground
+				Lake George Beach
+				Lake George Islands Campground
+				Lake George Wild Forest
+				Lake Harris Campground
+				Lassellsville State Forest
+				Lewey Lake Campground
+				Lewis Preserve Wildlife Management Area
+				Limekiln Lake Campground
+				Lincoln Mountain State Forest
+				Lincoln Pond Campground
+				Little Moose Wilderness
+				Little Sand Point Campground
+				Luzerne Campground
+				Macomb State Forest
+				McKenzie Mountain Wilderness
+				Meacham Lake Campground
+				Meadowbrook Campground
+				Middle Grove State Forest
+				Moffitt Beach Campground
+				Montys Bay Wildlife Management Area
+				Moon Pond State Forest
+				Moose River Plains Wild Forest
+				Mount Tom State Forest
+				Northampton Beach Campground
+				Paradox Lake Campground
+				Parcel 45 Wildlife Management Area
+				Paul Smiths College Conservation Easement Lands
+				Pauline Murdock Wildlife Management Area
+				Peck Hill State Forest
+				Perkins Clearing and Speculator Tree Farm Conservation Easement Lands
+				Pharaoh Lake Wilderness
+				Pigeon Lake Wilderness
+				Point Comfort Campground
+				Poplar Point Campground
+				Prospect Mountain Day Use Area
+				Putnam Pond Campground
+				Putts Creek Wildlife Management Area
+				Ralph Road State Forest
+				Rockwood State Forest
+				Rogers Rock Campground
+				Rollins Pond Campground
+				Round Lake Wilderness
+				Sable Highlands Conservation Easement Lands
+				Sacandaga Campground
+				Saint Regis Canoe Area
+				Saint Regis State Forest
+				Santa Clara Tract Conservation Easement Lands
+				Saranac Lake Islands Campground
+				Saranac Lakes Wild Forest
+				Saratoga Sand Plains Wildlife Management Area
+				Saratoga State Tree Nursery
+				Sargent Ponds Wild Forest
+				Scaroon Manor Campground
+				Sentinel Range Wilderness
+				Shaker Mountain Wild Forest
+				Sharp Bridge Campground
+				Siamese Ponds Wilderness
+				Silver Lake Wilderness
+				Split Rock Mountain Wild Forest
+				Spring Brook State Forest
+				St. Regis Canoe Area
+				Taylor Pond Campground
+				Taylor Pond Wild Forest
+				Terry Mountain State Forest
+				The Gulf Unique Area
+				Tioga Point Campground
+				Titusville Mountain State Forest
+				Trout River State Forest
+				Upper Hudson Woodlands Conservation Easement
+					{Finch Lands}
+				Ushers Road State Forest
+				Valcour Island Primitive Area
+				Vanderwhacker Mountain Wild Forest
+				Victory Mills Wildlife Management Area
+				Washington County Grasslands
+				West Canada Lake Wilderness
+				Wickham Marsh Wildlife Management Area
+				Wilcox Lake Wild Forest
+				William C. Whitney Wilderness
+				Wilmington Notch Campground
+				Wilmington Wild Forest
+			[Long Island]
+				Accabonac Marsh Tidal Wetland Area
+				Babylon Marsh-Elder and Petteanger Island Tidal Wetland Area
+					{Babylon Marsh Tidal Wetland Area}
+				Baiting Hollow Tidal Wetland Area
+				Bellport Bay Tidal Wetland Area
+				Brookhaven Pine Barrens State Forest
+				Browns River Tidal Wetland Area
+				Calverton Pine Barrens State Forest
+				Carmans River Pine Barrens State Forest
+				Conscience Bay Little Bay Tidal Wetland Area
+				Currans Road Pond Wildlife Management Area
+				David A. Sarnoff Preserve
+				East Bartlett Pine Barrens State Forest
+				Eastport Pine Barrens State Forest
+				Edgewood Oak Brush Plains Preserve
+				Fireplace Neck Tidal Wetland Area
+				Flax Pond Tidal Wetland Area
+				Fox Point Tidal Wetland Area
+				H. J. Isbrandtsen Tidal Wetland Area
+				Havens Point Tidal Wetland Area
+				Henry's Hollow Pine Barrens State Forest
+				Inwood Bay Tidal Wetland Area
+				Isbrandtsen Marsh Tidal Wetland Area
+				Jakobson Shipyard Tidal Wetland Area
+				Johns Neck Creek Tidal Wetland Area
+				Kings Park Unique Area
+				Lido Beach Tidal Wetland Area
+				Linda Gronlund Memorial Nature Preserve
+				Little Northeast Tidal Wetland Area
+				Long Beach Bay Tidal Wetland Area
+				Longwood Pine Barrens State Forest
+				Ludlows Creek Tidal Wetland Area
+				Lymans Marsh Tidal Wetland Area
+				Manorville Pine Barrens Preserve
+				Moneyboque Bay Tidal Wetland Area
+				Mount Sinai Tidal Wetland Area
+				Namkee Creek Tidal Wetland Area
+				Napeague Harbor Tidal Wetland Area
+				North Haven Tidal Wetland Area
+				Northwest Harbor Tidal Wetland Area
+				Oregon Marsh Tidal Wetland Area
+				Otis Pike Preserve
+					Canoe Lake
+					Fresh Pond
+				Panamoka Pine Barrens State Forest
+				Patriot's Hollow State Forest
+				Pepperidge Hall Marsh Tidal Wetland Area
+				Pickman-Rimmer Tidal Wetland Area
+				Quoque Wildlife Refuge
+				Ridge Conservation Area
+				Rocky Point Pine Barrens State Forest
+				Sag Harbor Tidal Wetland Area
+				Shelter Island Tidal Wetland Area
+				Shinnecock Bay Tidal Wetland Area
+				Stillman Creek Tidal Wetland Area
+				Timber Point Tidal Wetland Area
+				Tuthill Cove Tidal Wetland Area
+				Westhampton Dwarf Pine Plains Preserve
+			[Lower Hudson Valley]
+				Balsam Lake Mountain Wild Forest
+				Bashakill Wildlife Management Area
+				Baxtertown Woods Wildlife Management Area
+				Beaverkill Campground
+				Big Buck Mountain State Forest
+				Big Indian Wilderness
+				Black Creek State Forest
+				Bluestone Wild Forest
+				Bog Brook Unique Area
+				California Hill State Forest
+				Castle Rock Unique Area
+				Cherry Island Wildlife Management Area
+				Cranberry Mountain Wildlife Management Area
+				Croton Gorge Unique Area
+				Crystal Lake Wild Forest
+				Depot Hill Multiple Use Area
+				Dry Brook Ridge Wild Forest
+				Gobbler's Knob State Forest
+				Great Swamp Wildlife Management Area
+				Hemlock Ridge Multiple Use Area
+				Hemlock Ridge State Forest
+				Hickok Brook Multiple Use Area
+				Hickok Brook State Forest
+				High Woods Multiple Use Area
+				Huckleberry Ridge State Forest
+				Hunter-West Kill Wilderness
+				Indian Head Wilderness
+				Kaaterskill Wild Forest
+				Kenneth Wilson Campground
+				Kowawese Unique Area
+				Lafayetteville Multiple Use Area
+				Little Pond Campground
+				Minisceongo Tidal Wetland Area
+				Mongaup Pond Campground
+				Mongaup Valley Wildlife Management Area
+				Montrose Point State Forest
+				Mount Peter Hawk Watch Trailway
+				Neversink River Unique Area
+				Nimham Mountain Multiple Use Area
+				Nimham Mountain State Forest
+				Oak Ridge Multiple Use Area
+				Overlook Mountain Wild Forest
+				Painter Hill Multiple Use Area
+				Phoenicia - Mt. Tobias Wild Forest
+				Piermont Marsh Tidal Wetland Area
+				Pochuck State Forest
+				Roeliff Jansen Kill Multiple Use Area
+				Roosa Gap State Forest
+				Shandaken Wild Forest
+				Shawangunk Multiple Use Area
+				Shawangunk Ridge State Forest
+				Slide Mountain Wilderness
+				Stewart State Forest
+				Stissing Mountain Multiple Use Area
+				Sundown Wild Forest
+				Taconic-Hereford Multiple Use Area
+				Titus Mill Pond Tidal Wetland Area
+				Tivoli Bay Wildlife Management Area
+				Turkey Point State Forest
+				Vernooykill State Forest
+				Wassaic Multiple Use Area
+				West Mountain State Forest
+				White Pond Multiple Use Area
+				Willowemoc Wild Forest
+				Witch's Hole Multiple Use Area
+				Wolf Brook Multiple Use Area
+				Woodland Valley Campground
+				Wurtsboro Ridge State Forest
+			[New York City]
+				Arden Heights Woods
+				Bloesser's Pond
+				Goethals Pond Complex
+					Bridge Creek
+					Goethals Field
+					Goethals Pond
+				Lemon Creek
+				Mount Loretto Unique Area
+					Butler Manor Woods
+				North Mount Loretto State Forest
+				Norton Basin Natural Resource Area
+				Oakwood Beach
+				Old Place Creek
+				Pouch Camp Conservation Easement
+				Saint Francis Woodlands
+				Sawmill Creek Wetland
+				Todt Hill Woodlands
+				Udall's Cove & Ravine Natural Resource Area
+				Zuckermann Natural Resource Area
+			[Rochester/Western Finger Lakes]
+				Bare Hill Unique Area
+				Bath Fish Hatchery
+				Beaver Dams State Forest
+				Birdseye Hollow State Forest
+				Braddock Bay Wildlife Management Area
+				Burt Hill Multiple Use Area
+				Caledonia Fish Hatchery
+				Cameron Mills State Forest
+				Cameron State Forest
+				Canacadea State Forest
+				Canaseraga State Forest
+				Canoga Marsh Wildlife Management Area
+				Catharine Creek Wildlife Management Area
+				Catlin State Forest
+				Cayuga Lake Wildlife Management Area
+				Cedar Springs Fish Hatchery
+				Cinnamon Lake State Forest
+				Cold Brook Wildlife Management Area
+				Conesus Inlet Wildlife Management Area
+				Connecticut Hill Wildlife Management Area
+				Coon Hollow State Forest
+				Dry Run State Forest
+				Erwin Hollow State Forest
+				Erwin Mountain State Forest
+				Erwin Wildlife Management Area
+				Galen Wildlife Management Area
+				Goundry Hill State Forest
+				Greenwood State Forest
+				Harriet Hollister Spencer State Memorial Recreation Area
+				Helmer Wildlife Management Area
+				Hemlock-Canadice State Forest
+				High Tor Wildlife Management Area
+				Honeoye Creek Wildlife Management Area
+				Honeoye Inlet Wildlife Management Area
+				Italy Hill State Forest
+				John White Memorial Game Farm
+				Lake Shore Marshes Wildlife Management Area
+				Maple Hill State Forest
+				McCarthy Hill State Forest
+				Meads Creek State Forest
+				Moss Hill State Forest
+				Mount Washington Multiple Use Area
+				Northern Montezuma Wildlife Management Area
+				Oak Orchard Wildlife Management Area
+				Ossian State Forest
+				Pigtail Hollow State Forest
+				Rattlesnake Hill Wildlife Management Area
+				Rock Creek State Forest
+				Rush Oak Openings Unique Area
+				Sonyea State Forest
+				South Bradford State Forest
+				Squaw Island Unique Area
+				Stid Hill Multiple Use Area
+				Sugar Hill State Forest
+				Texas Hollow State Forest
+				Tonawanda Wildlife Management Area
+				Tracy Creek State Forest
+				Turkey Ridge State Forest
+				Urbana State Forest
+				Waneta Lamoka Wildlife Management Area
+				West Cameron State Wildlife Management Area
+				West Hill State Forest
+				Willard Wildlife Management Area
+			[Western Adirondacks/Upper Mohawk Valley/Eastern Lake Ontario]
+				Albert J. Woodford Memorial State Forest
+				Aldrich Pond Wild Forest
+				Alger Island Campground
+				Ashland Flats Wildlife Management Area
+				Balsam Creek State Forest
+				Beartown State Forest
+				Beaver Creek State Forest
+				Beers Lot Conservation Easement Lands
+				Big Brook State Forest
+				Big Moose Conservation Easement Lands
+				Big Tupper Conservation Easement Lands
+				Black Creek State Forest
+				Black Pond Wildlife Management Area
+				Black River Wild Forest
+				Bog River Flow
+					{Lows Lake}
+				Bombay State Forest
+				Bonaparte's Cave State Forest
+				Bonner Lake State Forest
+				Brasher State Forest
+				Buck Hill State Forest
+				Buckton State Forest
+				California Road State Forest
+				Canada Creek State Forest
+				Catherineville State Forest
+				Clark Hill State Forest
+				Cobb Brook State Forest
+				Cobb Creek State Forest
+				Cold Spring Brook State Forest
+				Collins Landing Wildlife Management Area
+				Cottrell State Forest
+				Coyote Flats State Forest
+				Cranberry Creek Wildlife Management Area
+				Cranberry Lake Campground
+				Cranberry Lake Wild Forest
+				Crary Mills State Forest
+				Croghan Tract Conservation Easement Lands
+				Degrasse State Forest
+				Dexter Marsh Wildlife Management Area
+				Downerville State Forest
+				East Branch of Fish Creek Conservation Easement Lands
+				East Branch of Fish Creek State Forest
+				East Osceola State Forest
+				Fall Brook State Forest
+				Ferris Lake Wild Forest
+				Fire-Fall State Forest
+				Fish Creek Marsh Wildlife Management Area
+				Fish Creek State Forest
+				Five Mile Conservation Easement Lands
+				Five Ponds Wilderness
+				Florence Hill State Forest
+				Fort Jackson State Forest
+				Fourth Lake Picnic Area
+				Frank E. Jadwin Memorial State Forest
+				Frank E. Jadwin State Forest
+				French Creek Wildlife Management Area
+				Fulton Chain Wild Forest
+				Furnace Creek State Forest
+				Glenmeal State Forest
+				Goulds Corners State Forest
+					{Gould Corners State Forest}
+				Granger State Forest
+				Grant Powell State Forest
+				Grantville State Forest
+				Grass River Conservation Easement Lands
+				Grass River Wild Forest
+				Greenwood Creek State Forest
+				Gull Island Wildlife Management Area
+				Ha-De-Ron-Dah Wilderness
+				Henderson Shores Unique Area
+				Hickory Lake State Forest
+				High Flats State Forest
+				High Towers State Forest
+				Hinckley Reservoir Day Use Area
+				Hinckley State Forest
+				Hogsback State Forest
+				Honeyville Wildlife Management Area
+				Horseshoe Lake Wild Forest
+				Independence River State Forest
+				Independence River Wild Forest
+				Indian Pipe State Forest
+				Indian River Wildlife Management Area
+				Jackson Hill State Forest
+				Knapp Station State Forest
+				Lakeview Marsh Wildlife Management Area
+				Lesser Wilderness State Forest
+				Line Brook State Forest
+				Little Gallo Island Unique Area
+				Lonesome Bay State Forest
+				Long Pond Conservation Easement Lands
+				Lookout State Forest
+				Lost Nation State Forest
+				Lowville Demonstration Area
+				Mad River State Forest
+				Massawepie Conservation Easement Lands
+				Mohawk Springs State Forest
+				Moose River Plains Wild Forest
+				Mount Hunger State Forest
+				Niagara Mohawk (NiMo) Conservation Easement Lands
+				Nicks Lake Campground
+				North Lake Tract Conservation Easement Lands
+				Ohisa State Forest
+				Onjebonge State Forest
+				Orebed Creek State Forest
+				Oriskany Flats Wildlife Management Area
+				Oswegatchie Conservation Easement Lands
+				Otsquago State Forest
+				Otter Creek State Forest
+				Penn Mountain State Forest
+				Pepperbox Wilderness
+				Perch River Wildlife Management Area
+				Pigeon Lake Wilderness
+				Pinckney State Forest
+				Plantation Island Wildlife Management Area
+				Pleasant Lake State Forest
+				Point Peninsula Wildlife Management Area
+				Point Rock State Forest
+				Popple Pond State Forest
+				Preston Lot Conservation Easement Lands
+				Pulpit Rock State Forest
+				Punkeyville State Forest
+				Raquette River Wild Forest
+				Raquette-Jordan Boreal Primitive Area
+				Raymondville State Forest
+				Raywood Unique Area
+				Rome Sand Plains Area
+				Rome Sand Plains Unique Area
+				Rome State Fish Hatchery
+				Rome Wildlife Management Area
+				Round Lake Wilderness
+				Sand Bay State Forest
+				Sand Flats State Forest
+				Sears Pond State Forest
+				Seveys Conservation Easement Lands
+				Silver Hill State Forest
+				Snow Bowl State Forest
+				Sodom State Forest
+				South Hammond State Forest
+				South Hill State Forest
+				Southville State Forest
+				Stammer Creek State Forest
+				Steuben Hill State Forest
+				Stillwater Reservoir
+				Stone Barn State Forest
+				Sucker Lake Conservation Easement Lands
+				Swancott Hill State Forest
+				Swancott Mill State Forest
+				Taylor Creek State Forest
+				Tooley Pond Tract Conservation Easement Lands
+				Toothaker Creek State Forest
+				Tri-County State Forest
+				Trout Lake State Forest
+				Tug Hill State Forest
+				Tug Hill Wildlife Management Area
+				Upper and Lower Lakes Wildlife Management Area
+				Utica Marsh Wildlife Management Area
+				Van Hornesville Fish Hatchery
+				Wanakena Primitive Area
+				Watson's East Triangle Wild Forest
+				Webster Hill State Forest
+				West Branch State Forest
+				West Canada Lake Wilderness
+				West Parishville State Forest
+				Whippoorwill Corners State Forest
+				Whiskey Flats State Forest
+				White Hill Wild Forest
+				Wilson Hill Wildlife Management Area
+				Winona State Forest
+				Wolf Lake State Forest
+				Woodhull State Forest
+				Yellow Lake State Forest
+			[Western New York]
+				Alder Bottom Wildlife Management Area
+				Allegheny Reservoir Wildlife Management Area
+				Allen Lake State Forest
+				Bald Mountain State Forest
+				Bear Creek State Forest
+				Boutwell Hill State Forest
+				Boyce Hill State Forest
+				Brokenstraw State Forest
+				Bryant Hill State Forest
+				Bucktooth State Forest
+				Bully Hill State Forest
+				Bush Hill State Forest
+				Canadaway Creek Wildlife Management Area
+				Carlton Hill Multiple Use Area
+				Cattaraugus State Forest
+				Chautauqua Fish Hatchery
+				Chautauqua Gorge State Forest
+				Chautauqua Lake Fish and Wildlife Management Area
+				Clay Pond Wildlife Management Area
+				Cold Creek State Forest
+				Conewango Swamp Wildlife Management Area
+				Coyle Hill State Forest
+				Crab Hollow State Forest
+				Dobbins Memorial State Forest
+					{Dobbins State Forest}
+				East Otto State Forest
+				Elkdale State Forest
+				English Hill State Forest
+				Farmersville State Forest
+				Gas Springs State Forest
+				Genesee Valley Wildlife Management Area
+				Gillies Hill State Forest
+				Golden Hill State Forest
+				Great Baehre Swamp Wildlife Management Area
+				Hampton Brook Woods Wildlife Management Area
+				Hanging Bog Wildlife Management Area
+				Harris Hill State Forest
+				Hartland Swamp Wildlife Management Area
+				Hartson Swamp Wildlife Management Area
+				Harwood Lake Multiple Use Area
+				Hatch Creek State Forest
+				Hill Higher State Forest
+				Hiltonville State Forest
+				Jaquins Pond Wildlife Management Area
+				Jersey Hill State Forest
+				Kabob Wildlife Management Area
+				Karr Valley Creek State Forest
+				Keeney Swamp State Forest
+				Keeney Swamp Wildlife Management Area
+				Klipnocky State Forest
+				Lost Nation State Forest
+				McCarty Hill State Forest
+				Motor Island Wildlife Management Area
+				Mount Pleasant State Forest
+				Nine Mile State Forest
+					{Nine Mile Creek State Forest}
+				North Harmony State Forest
+				Onondaga Escarpment Unique Area
+				Palmer's Pond State Forest
+				Panama State Forest
+				Phillips Creek State Forest
+				Pine Hill State Forest
+				Plumbottom State Forest
+				Raecher Hill State Forest
+				Randolph Fish Hatchery
+				Rattlesnake Hill Wildlife Management Area
+				Reinstein Woods Nature Preserve
+				Rock City State Forest
+				Rush Creek State Forest
+				Silver Lake Outlet Wildlife Management Area
+				Slader Creek State Forest
+				South Valley State Forest
+				Spicer Creek Wildlife Management Area
+				Stockton State Forest
+				Swift Hill State Forest
+				Tillman Road Swamp Wildlife Management Area
+				Tonawanda Wildlife Management Area
+				Turnpike State Forest
+				Vandermark State Forest
+				Watts Flats Wildlife Management Area
+				Wellman State Forest
+				Whalen Memorial State Forest
+				Windfall Creek State Forest
+				Zoar Valley Multiple Use Area
+		[Office of Parks Recreation and Historic Preservation]
+			{OPRHP}
+			[Allegany Region]
+				Bemus Point
+					Long Point State Park on Lake Chautauqua
+						{Long Point State Park}
+					Midway State Park
+				Brocton
+					Lake Erie State Park
+				Salamanca
+					Allegany State Park - Quaker Area
+						{Allegany State Park}
+					Allegany State Park - Red House Area
+						{Allegany State Park}
+			[Central Region]
+				Bainbridge
+					Oquaga Creek State Park
+				Boonville
+					Pixley Falls State Park
+				Cazenovia
+					Chittenango Falls State Park
+				Chenango Forks
+					Chenango Valley State Park
+				Cooperstown
+					Glimmerglass State Park
+				Davenport
+					Robert V. Riddell State Park
+				Dewitt/Rome
+					Old Erie Canal State Historic Park
+				Fayetteville
+					Green Lakes State Park
+				Fulton
+					Battle Island State Park
+				Jamesville
+					Clark Reservation State Park
+				Laurens
+					Gilbert Lake State Park
+				Mexico
+					Mexico Point Boat Launch
+				Oxford
+					Bowman Lake State Park
+				Pulaski
+					Pine Grove Boat Launch
+					Sandy Island Beach State Park
+					Selkirk Shores State Park
+				Rome
+					Delta Lake State Park
+				Syracuse
+					State Park at the Fair
+				Verona Beach
+					Verona Beach State Park
+				Westford
+					Betty and Wilbur Davis State Park
+			[Finger Lakes Region]
+				Addison
+					Pinnacle State Park and Golf Course
+				Aurora
+					Long Point State Park
+				Bluff Point
+					Keuka Lake State Park
+				Canadaigua
+					Canandaigua Lake State Marine Park
+				Dansville
+					Stony Brook State Park
+				Elmira
+					Newtown Battlefield State Park
+				Fair Haven
+					Fair Haven Beach State Park
+				Geneva
+					Seneca Lake State Park
+				Honeoye
+					Honeoye Lake Boat Launch State Park
+				Horseheads
+					Mark Twain State Park
+					Soaring Eagles Golf Course
+				Ithaca
+					Allan H. Treman State Marine Park
+					Buttermilk Falls State Park
+					Robert H. Treman State Park
+				Lodi
+					Lodi Point State Park
+				Moravia
+					Fillmore Glen State Park
+				Ovid
+					Bonavista State Park Golf Course
+				Romulus
+					Sampson State Park
+				Seneca Falls
+					Cayuga Lake State Park
+					Deans Cove Boat Launch
+				Springwater
+					Harriet Hollister Spencer State Recreation Area
+				Trumansburg
+					Taughannock Falls State Park
+				Watkins Glen
+					Catharine Valley Trail
+					Watkins Glen State Park
+				Waverly
+					Two Rivers State Park Recreation Area
+				Wolcott
+					Chimney Bluffs State Park
+			[Genesee Region]
+				Carlton
+					Oak Orchard State Marine Park
+				Castile
+					Conesus Lake Boat Launch
+					Genesee Valley Greenway State Park
+					Letchworth State Park
+					Silver Lake State Park
+				Darien Center
+					Darien Lakes State Park
+				Hamlin
+					Hamlin Beach State Park
+				Irondequoit
+					Irondequoit Bay State Marine Park
+				Waterport
+					Lakeside Beach State Park
+			[Long Island Region]
+				Babylon
+					Captree State Park
+					Gilgo State Park
+					Robert Moses State Park
+				Brentwood
+					Brentwood State Park
+				Cold Spring Harbor
+					Cold Spring Harbor State Park
+				East Islip
+					Heckscher State Park
+				Farmingdale
+					Bethpage State Park
+				Great River
+					Bayard Cutting Arboretum State Park
+				Huntington
+					Caumsett State Historic Park Preserve
+				Kings Park
+					Nissequogue River State Park
+					Sunken Meadow State Park
+						{Governor Alfred E. Smith State Park}
+				Montauk
+					Camp Hero State Park
+					Hither Hills State Park
+					Montauk Downs State Park
+					Montauk Point State Park
+					Shadmoor State Park
+				North Babylon
+					Belmont Lake State Park
+				Oakdale
+					Connetquot River State Park Preserve
+				Orient
+					Orient Beach State Park
+				Smithtown
+					Caleb Smith State Park Preserve
+				Valley Stream
+					Valley Stream State Park
+				Wading River
+					Brookhaven State Park
+					Wildwood State Park
+				Wantagh
+					Jones Beach State Park
+				West Hempstead
+					Hempstead Lake State Park
+				Woodbury
+					Trail View State Park
+			[New York City Region]
+				Bronx
+					Roberto Clemente State Park
+				Brooklyn
+					East River State Park
+				Far Rockaway
+					Bayswater Point State Park
+				Long Island City
+					Gantry Plaza State Park
+				New York
+					Franklin D. Roosevelt Four Freedoms State Park
+					Riverbank State Park
+				Staten Island
+					Clay Pit Ponds State Park Preserve
+			[Niagara Region]
+				Barker
+					Golden Hill State Park
+				Blasdell
+					Woodlawn Beach State Park
+				Buffalo
+					Buffalo Harbor State Park
+				East Aurora
+					Knox Farm State Park
+				Grand Island
+					Beaver Island State Park
+					Big Six Mile Creek Marina
+					Buckhorn Island State Park
+				Irving
+					Evangola State Park
+				Lewiston
+					Artpark State Park
+						{Earl W. Brydges Artpark}
+						{Earl W. Brydges State Park}
+					Joseph Davis State Park
+				Niagara Falls
+					De Veaux Woods State Park
+					Devil's Hole State Park
+					Niagara Falls State Park
+					Reservoir State Park
+					Whirlpool State Park
+				Wilson
+					Wilson-Tuscarora State Park
+				Youngstown
+					Fort Niagara State Park
+					Four Mile Creek State Park
+			[Palisades Region]
+				Bear Mountain
+					Bear Mountain State Park
+					Harriman State Park - Anthony Wayne Recreation Area
+						{Harriman State Park}
+					Harriman State Park - Lake Sebago Beach
+						{Harriman State Park}
+					Harriman State Park - Silver Mine
+						{Harriman State Park}
+				Bethel
+					Lake Superior State Park
+				Blauvelt
+					Blauvelt State Park
+				Chester
+					Goosepond Mountain State Park
+				Cornwall-on-Hudson
+					Storm King State Park
+						Storm King Mountain
+				Cragsmoor
+					Minnewaska State Park Preserve - Sam's Point Area
+						{Mennewaska State Park Preserve}
 				Harriman State Park
-			Southfields
-				Harriman State Park - Lake Tiorati Beach
-					{Harriman State Park}
-			Sparkill
-				Tallman Mountain State Park
-			Stony Point
-				Harriman State Park - Beaver Pond Campgrounds
-					{Harriman State Park}
-				Harriman State Park - Lake Welch Beach
-					{Harriman State Park}
-			Tuxedo
-				Sterling Forest State Park
-			Upper Nyack
-				Nyack Beach State Park
-			Valley Cottage
-				Rockland Lake State Park
-		[Saratoga/Capital District Region]
-			Cohoes
-				Peebles Island State Park
-			Coxsackie
-				Hudson River Islands State Park
-			Cropseyville
-				Grafton Lakes State Park
-			East Berne
-				Thacher State Park - Thompson's Lake Campground
-					{Thacher State Park}
-			Fultonham
-				Max V. Shaul State Park
-			Gansevoort
-				Moreau Lake State Park
-			North Blenheim
-				Mine Kill State Park
-			Petersburg
-				Cherry Plain State Park
-			Saratoga Springs
-				Saratoga Lake State Boat Launch
-				Saratoga Spa State Park
-			Schodack Landing
-				Schodack Island State Park
-			Voorheesville
-				Thacher State Park
-		[Taconic Region]
-			Ancram
-				Lake Taghkanic State Park
-			Beacon
-				Hudson Highlands State Park Preserve
-					Bannerman Island
-						{Pollepel Island}
-						Bannerman Castle
-					Breakneck Ridge
-			Carmel
-				Fahnestock State Park
-					{Clarence Fahnestock Memorial State Park}
-				Fahnestock Winter Park
-				Wonder Lake State Park
-			Copake Falls
-				Taconic State Park - Copake Falls Area
-					{Taconic State Park}
-			Dobbs Ferry
-				Old Croton Aqueduct State Historic Park
-			Millerton
-				Taconic State Park - Rudd Pond Area
-					{Taconic State Park}
-			Pleasant Valley
-				James Baird State Park
-			Pleasantville
-				Rockefeller State Park Preserve
-			Poughkeepsie
-				Walkway Over the Hudson State Historic Park
-			Staatsburg
-				Mills Norrie State Park
-					{Margaret Lewis Norrie State Park}
-				Ogden Mills & Ruth Livingston Mills State Park
-			Yorktown Heights
-				Franklin D. Roosevelt State Park
-		[Thousand Islands Region]
-			1000 Islands
-				Mary Island State Park
-			Alexandria Bay
-				Grass Point State Park
-				Keewaydin State Park
-			Cape Vincent
-				Burnham Point State Park
-			Clayton
-				Canoe-Picnic Point State Park
-				Cedar Point State Park
-			Colton
-				Higley Flow State Park
-			Fineview
-				Dewolf Point State Park
-				Waterson Point State Park
-				Wellesley Island State Park
-			Fisher's Landing
-				Rock Island Lighthouse State Park
-			Hammond
-				Cedar Island State Park
-			Henderson
-				Robert G. Wehle State Park
-				Southwick Beach State Park
-				Westcott Beach State Park
-			Lowville
-				Whetstone Gulf State Park
-			Massena
-				Robert Moses State Park
-			Morristown
-				Jacques Cartier State Park
-			Ogdensburg
-				Eel Weir State Park
-				St. Lawrence State Park Golf Course
-			Plattsburgh
-				Cumberland Bay State Park
-				Point Au Roche State Park
-			Redwood
-				Kring Point State Park
-			Schuyler Falls
-				Macomb Reservation State Park
-			Three Mile Bay
-				Long Point State Park
-			Waddington
-				Coles Creek State Park
+					Harriman State Park - Sebago Cabin Camp
+						{Harriman State Park}
+				Highland
+					Franny Reese State Park
+					Walkway Over the Hudson State Historic Park
+				Kerhonkson
+					Minnewaska State Park Preserve
+				Middletown
+					Highland Lakes State Park
+				New City
+					High Tor State Park
+				Orange County
+					Schunnemunk State Park
+				Ramapo
+					Harriman State Park
+				Southfields
+					Harriman State Park - Lake Tiorati Beach
+						{Harriman State Park}
+				Sparkill
+					Tallman Mountain State Park
+				Stony Point
+					Harriman State Park - Beaver Pond Campgrounds
+						{Harriman State Park}
+					Harriman State Park - Lake Welch Beach
+						{Harriman State Park}
+				Tuxedo
+					Sterling Forest State Park
+				Upper Nyack
+					Nyack Beach State Park
+				Valley Cottage
+					Rockland Lake State Park
+			[Saratoga/Capital District Region]
+				Cohoes
+					Peebles Island State Park
+				Coxsackie
+					Hudson River Islands State Park
+				Cropseyville
+					Grafton Lakes State Park
+				East Berne
+					Thacher State Park - Thompson's Lake Campground
+						{Thacher State Park}
+				Fultonham
+					Max V. Shaul State Park
+				Gansevoort
+					Moreau Lake State Park
+				North Blenheim
+					Mine Kill State Park
+				Petersburg
+					Cherry Plain State Park
+				Saratoga Springs
+					Saratoga Lake State Boat Launch
+					Saratoga Spa State Park
+				Schodack Landing
+					Schodack Island State Park
+				Voorheesville
+					Thacher State Park
+			[Taconic Region]
+				Ancram
+					Lake Taghkanic State Park
+				Beacon
+					Hudson Highlands State Park Preserve
+						Bannerman Island
+							{Pollepel Island}
+							Bannerman Castle
+						Breakneck Ridge
+				Carmel
+					Fahnestock State Park
+						{Clarence Fahnestock Memorial State Park}
+					Fahnestock Winter Park
+					Wonder Lake State Park
+				Copake Falls
+					Taconic State Park - Copake Falls Area
+						{Taconic State Park}
+				Dobbs Ferry
+					Old Croton Aqueduct State Historic Park
+				Millerton
+					Taconic State Park - Rudd Pond Area
+						{Taconic State Park}
+				Pleasant Valley
+					James Baird State Park
+				Pleasantville
+					Rockefeller State Park Preserve
+				Poughkeepsie
+					Walkway Over the Hudson State Historic Park
+				Staatsburg
+					Mills Norrie State Park
+						{Margaret Lewis Norrie State Park}
+					Ogden Mills & Ruth Livingston Mills State Park
+				Yorktown Heights
+					Franklin D. Roosevelt State Park
+			[Thousand Islands Region]
+				1000 Islands
+					Mary Island State Park
+				Alexandria Bay
+					Grass Point State Park
+					Keewaydin State Park
+				Cape Vincent
+					Burnham Point State Park
+				Clayton
+					Canoe-Picnic Point State Park
+					Cedar Point State Park
+				Colton
+					Higley Flow State Park
+				Fineview
+					Dewolf Point State Park
+					Waterson Point State Park
+					Wellesley Island State Park
+				Fisher's Landing
+					Rock Island Lighthouse State Park
+				Hammond
+					Cedar Island State Park
+				Henderson
+					Robert G. Wehle State Park
+					Southwick Beach State Park
+					Westcott Beach State Park
+				Lowville
+					Whetstone Gulf State Park
+				Massena
+					Robert Moses State Park
+				Morristown
+					Jacques Cartier State Park
+				Ogdensburg
+					Eel Weir State Park
+					St. Lawrence State Park Golf Course
+				Plattsburgh
+					Cumberland Bay State Park
+					Point Au Roche State Park
+				Redwood
+					Kring Point State Park
+				Schuyler Falls
+					Macomb Reservation State Park
+				Three Mile Bay
+					Long Point State Park
+				Waddington
+					Coles Creek State Park
