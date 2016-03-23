@@ -861,6 +861,7 @@
 						{Allegany State Park}
 					Allegany State Park - Red House Area
 						{Allegany State Park}
+						Red House Natural History Museum
 			[Central Region]
 				Bainbridge
 					Oquaga Creek State Park
@@ -868,10 +869,12 @@
 					Pixley Falls State Park
 				Cazenovia
 					Chittenango Falls State Park
+					Lorenzo State Historic Site
 				Chenango Forks
 					Chenango Valley State Park
 				Cooperstown
 					Glimmerglass State Park
+					Hyde Hall State Historic Site
 				Davenport
 					Robert V. Riddell State Park
 				Dewitt/Rome
@@ -882,18 +885,29 @@
 					Battle Island State Park
 				Jamesville
 					Clark Reservation State Park
+						Clark Reservation State Park Nature Center
 				Laurens
 					Gilbert Lake State Park
+				Little Falls
+					Herkimer Home State Historic Site
 				Mexico
 					Mexico Point Boat Launch
+				Oriskany
+					Oriskany Battlefield State Historic Site
+				Oswego
+					Fort Ontario State Historic Site
 				Oxford
 					Bowman Lake State Park
 				Pulaski
 					Pine Grove Boat Launch
 					Sandy Island Beach State Park
 					Selkirk Shores State Park
+				Remsen
+					Steuben Memorial State Historic Site
 				Rome
 					Delta Lake State Park
+				Roxbury
+					John Burroughs Memorial State Historic Site
 				Syracuse
 					State Park at the Fair
 				Verona Beach
@@ -907,8 +921,9 @@
 					Long Point State Park
 				Bluff Point
 					Keuka Lake State Park
-				Canadaigua
+				Canandaigua
 					Canandaigua Lake State Marine Park
+					Sonnenberg Gardens & Mansion State Historic Park
 				Dansville
 					Stony Brook State Park
 				Elmira
@@ -941,6 +956,8 @@
 					Harriet Hollister Spencer State Recreation Area
 				Trumansburg
 					Taughannock Falls State Park
+				Victor
+					Ganondagan State Historic Site
 				Watkins Glen
 					Catharine Valley Trail
 					Watkins Glen State Park
@@ -981,6 +998,8 @@
 					Bayard Cutting Arboretum State Park
 				Huntington
 					Caumsett State Historic Park Preserve
+				Huntington Station
+					Walt Whitman Birthplace State Historic Site
 				Kings Park
 					Nissequogue River State Park
 					Sunken Meadow State Park
@@ -995,10 +1014,14 @@
 					Belmont Lake State Park
 				Oakdale
 					Connetquot River State Park Preserve
+						Long Island Environmental Interpretive Center
 				Orient
 					Orient Beach State Park
+				Oyster Bay
+					Planting Fields Arboretum State Historic Park
 				Smithtown
 					Caleb Smith State Park Preserve
+						Caleb Smith State Park Preserve Nature Museum
 				Valley Stream
 					Valley Stream State Park
 				Wading River
@@ -1006,6 +1029,7 @@
 					Wildwood State Park
 				Wantagh
 					Jones Beach State Park
+						Theodore Roosevelt Nature Center
 				West Hempstead
 					Hempstead Lake State Park
 				Woodbury
@@ -1024,6 +1048,7 @@
 					Riverbank State Park
 				Staten Island
 					Clay Pit Ponds State Park Preserve
+						Clay Pit Ponds Interpretive Center
 			[Niagara Region]
 				Barker
 					Golden Hill State Park
@@ -1031,14 +1056,17 @@
 					Woodlawn Beach State Park
 				Buffalo
 					Buffalo Harbor State Park
+					Darwin Martin House State Historic Site
 				East Aurora
 					Knox Farm State Park
 				Grand Island
+					Beaver Island Nature Center
 					Beaver Island State Park
 					Big Six Mile Creek Marina
 					Buckhorn Island State Park
 				Irving
 					Evangola State Park
+						Evangola Nature Center
 				Lewiston
 					Artpark State Park
 						{Earl W. Brydges Artpark}
@@ -1054,6 +1082,8 @@
 					Wilson-Tuscarora State Park
 				Youngstown
 					Fort Niagara State Park
+						Fort Niagara Nature Center
+						Old Fort Niagara State Historic Site
 					Four Mile Creek State Park
 			[Palisades Region]
 				Bear Mountain
@@ -1076,6 +1106,8 @@
 				Cragsmoor
 					Minnewaska State Park Preserve - Sam's Point Area
 						{Mennewaska State Park Preserve}
+				Fort Montgomery
+					Fort Montgomery State Historic Site
 				Harriman State Park
 					Harriman State Park - Sebago Cabin Camp
 						{Harriman State Park}
@@ -1084,10 +1116,17 @@
 					Walkway Over the Hudson State Historic Park
 				Kerhonkson
 					Minnewaska State Park Preserve
+				Kingston
+					Senate House State Historic Site
 				Middletown
 					Highland Lakes State Park
 				New City
 					High Tor State Park
+				New Windsor
+					National Purple Heart Hall of Honor
+					New Windsor Cantonment State Historic Site
+				Newburgh
+					Washington's Headquarters State Historic Site
 				Orange County
 					Schunnemunk State Park
 				Ramapo
@@ -1102,30 +1141,46 @@
 						{Harriman State Park}
 					Harriman State Park - Lake Welch Beach
 						{Harriman State Park}
+					Stony Point Battlefield State Historic Site
 				Tuxedo
 					Sterling Forest State Park
 				Upper Nyack
 					Nyack Beach State Park
+				Vails Gate
+					Knox's Headquarters State Historic Site
 				Valley Cottage
 					Rockland Lake State Park
 			[Saratoga/Capital District Region]
+				Albany
+					Schuyler Mansion State Historic Site
 				Cohoes
 					Peebles Island State Park
 				Coxsackie
 					Hudson River Islands State Park
 				Cropseyville
 					Grafton Lakes State Park
+				Crown Point
+					Crown Point State Historic Site
 				East Berne
 					Thacher State Park - Thompson's Lake Campground
 						{Thacher State Park}
+				Fort Hunter
+					Schoharie Crossing State Historic Site
 				Fultonham
 					Max V. Shaul State Park
 				Gansevoort
 					Moreau Lake State Park
+						Moreau Lake State Park Nature Center
+				Johnstown
+					Johnson Hall State Historic Site
+				Lake Placid
+					John Brown Farm State Historic Site
 				North Blenheim
 					Mine Kill State Park
 				Petersburg
 					Cherry Plain State Park
+				Rensselaer
+					Crailo State Historic Site
 				Saratoga Springs
 					Saratoga Lake State Boat Launch
 					Saratoga Spa State Park
@@ -1133,6 +1188,11 @@
 					Schodack Island State Park
 				Voorheesville
 					Thacher State Park
+						Emma Treadwell Thacher Nature Center
+				Walloomsac
+					Bennington Battlefield State Historic Site
+				Wilton
+					Grant Cottage State Historic Site
 			[Taconic Region]
 				Ancram
 					Lake Taghkanic State Park
@@ -1145,6 +1205,7 @@
 				Carmel
 					Fahnestock State Park
 						{Clarence Fahnestock Memorial State Park}
+						Taconic Outdoor Education Center
 					Fahnestock Winter Park
 					Wonder Lake State Park
 				Copake Falls
@@ -1152,6 +1213,12 @@
 						{Taconic State Park}
 				Dobbs Ferry
 					Old Croton Aqueduct State Historic Park
+				Germantown
+					Clermont State Historic Site
+				Hudson
+					Olana State Historic Site
+				Katonah
+					John Jay Homestead State Historic Site
 				Millerton
 					Taconic State Park - Rudd Pond Area
 						{Taconic State Park}
@@ -1160,11 +1227,17 @@
 				Pleasantville
 					Rockefeller State Park Preserve
 				Poughkeepsie
+					Clinton House State Historic Site
 					Walkway Over the Hudson State Historic Park
+				Rye
+					Jay Heritage Center
 				Staatsburg
 					Mills Norrie State Park
 						{Margaret Lewis Norrie State Park}
 					Ogden Mills & Ruth Livingston Mills State Park
+					Staatsburgh State Historic Site
+				Yonkers
+					Philipse Manor Hall State Historic Site
 				Yorktown Heights
 					Franklin D. Roosevelt State Park
 			[Thousand Islands Region]
@@ -1184,6 +1257,7 @@
 					Dewolf Point State Park
 					Waterson Point State Park
 					Wellesley Island State Park
+						Minna Anthony Common Nature Center
 				Fisher's Landing
 					Rock Island Lighthouse State Park
 				Hammond
@@ -1196,6 +1270,7 @@
 					Whetstone Gulf State Park
 				Massena
 					Robert Moses State Park
+						Robert Moses State Park Nature Center
 				Morristown
 					Jacques Cartier State Park
 				Ogdensburg
@@ -1208,6 +1283,8 @@
 					Kring Point State Park
 				Schuyler Falls
 					Macomb Reservation State Park
+				Sockets Harbor
+					Sackets Harbor Battlefield State Historic Site
 				Three Mile Bay
 					Long Point State Park
 				Waddington
