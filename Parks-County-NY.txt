@@ -2,6 +2,17 @@
 	[New York]
 		{NY}
 		[Bronx]
+		[Dutchess]
+			[[Unspecified]]
+				Harlem Valley Rail Trail
+				William R. Steinhaus Dutchess Rail Trail
+					{Dutchess Rail Trail}
+			Milan
+				Wilcox Memorial Park
+			Poughkeepsie
+				Quiet Cove Riverfront Park
+			Wappingers Falls
+				Bowdoin Park
 		[Kings]
 		[Nassau]
 			[Active Parks]
@@ -236,3 +247,7 @@
 				West Bay Shore
 					Gardiner County Park
 					Sagtikos Manor
+		[Ulster]
+			Saugerties
+				Sojourner Truth / Ulster Landing Park
+					{Ulster Landing Park}
