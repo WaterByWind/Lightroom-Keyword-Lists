@@ -12,18 +12,54 @@
 					Buttermilk Falls
 				Tupper Lake
 					The Wild Center
+			Calverton
+				Enterprise Park at Calverton
+					{EPCAL}
+					Grumman Memorial Park
 			Centerport
 				Vanderbilt Museum and Preserve
 					Vanderbilt Mansion
 					Vanderbilt Museum
 					Vanderbilt Planetarium
+			[Columbia Land Conservancy]
+				Ancramdale
+					Drowned Lands Swamp Conservation Area
+					Round Ball Mountain Conservation Area
+						{Round Ball Mountain}
+				Canaan
+					Schor Conservation Area
+						{Schor Recreation Area}
+				Chatham
+					Borden's Pond Conservation Area
+					Ooms Conservation Area at Sutherland Pond
+				Claverack
+					High Falls Conservation Area
+				Ghent
+					Siegel-Kline Kill Conservation Area
+				Hudson
+					Greenport Conservation Area
+					Harrier Hill Park
+				New Lebanon
+					Hand Hollow Conservation Area
 			Eatons Neck
 				Price's Bend Beach
 				Valley Grove Beach
+			Gansevoort
+				Wilton Wildlife Preserve and Park
+					Camp Saratoga
+					Fox Parcel
+					Neilmann Parcel
+					Old Gick Farm
+					Opdahl Farm
 			Greenlawn
 				Edwin and Gertrude Grace Nature Preserve
 					{Grace Nature Preserve}
 					Grace Stroll Garden
+			Highland
+				Bob Shepard Highland Landing Park
+					{Highland Landing Park}
+				Hudson Valley Rail Trail
+				Johnson-Iorio Memorial Park
 			Huntington
 				Village Green Park
 			Kings Park
@@ -33,13 +69,9 @@
 			Lloyd Harbor
 				Lloyd Harbor Village Park
 			Northport
-				Cow Harbor Park
 				Iroquois Pipeline Right-of-Way
-				Northport Village Dock
-				Northport Village Park
-					{Northport Park}
-				Scudder Park
-					{Scudder Beach Park}
+			Poughkeepsie
+				Upper Landing Park
 			Stony Brook
 				Avalon Park & Preserve
 				Stony Brook Grist Mill
