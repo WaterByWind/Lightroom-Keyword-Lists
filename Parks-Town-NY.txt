@@ -1,4 +1,4 @@
-[Parks - Town]
+[Parks - Town/City/Village]
 	[New York]
 		{NY}
 		[Brookhaven]
@@ -65,6 +65,7 @@
 				Peter A. Nelson Park
 					{Oakwood Park}
 			LLoyd Harbor
+				Lloyd Harbor Village Park
 				Quentin/Sammis West Neck Beach
 			Melville
 				Half Hollow Park
@@ -86,8 +87,40 @@
 					Henry Ingraham Nature Preserve
 					Jerome Ambro Memorial Wetlands Preserve
 				Northport Rail Trail
+				Northport Village Dock
+				Northport Village Park
+					{Northport Park}
+				Scudder Park
+					{Scudder Beach Park}
 			South Huntington
 				Koster Park
+		[Poughkeepsie]
+			New Hamburg
+				New Hamburg Park
+				Riverfront Park
+				Riverview Park
+			Poughkeepsie
+				Carriage Hill Park
+				Country Club Estates Park
+				Crestwood Park
+				Crown Heights Park
+				Fairview Park
+				Greenvale Park
+				Hagantown Park
+					{Millbank Park}
+				Hillis Park
+				Overocker Park
+				Peach Hill Park
+				Pine Echo Park
+				Red Oaks Mills Park
+				Rochdale Park
+				Sheafe Road Park
+				Stanley Still Park
+					{Jackson Road Park}
+				Sunnyside Park
+				Townsend Park
+				Victor C. Waryas Park
+					{Waryas Park}
 		[Smithtown]
 			Commack
 				Burr Winkle Park
