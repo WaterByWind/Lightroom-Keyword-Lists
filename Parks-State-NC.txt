@@ -1,0 +1,80 @@
+[Parks - State]
+	North Carolina
+		{NC}
+		[North Carolina Historic Sites]
+			{NCHS}
+			Alamance Battleground
+			Aycock Birthplace
+			Bennett Place
+			Bentonville Battlefield
+			Brunswick Town/Fort Anderson
+			Charlotte Hawkins Brown Museum
+			CSS Neuse & Gov. Caswell Memorial
+			Duke Homestead
+			Fort Dobbs
+			Fort Fisher
+			Historic Bath
+			Historic Edenton
+			Historic Halifax
+			Historic Stagville
+			Horne Creek Farm
+				{Horne Creek Living Historical Farm}
+			House in the Horseshoe
+			North Carolina State Capitol
+			North Carolina Transportation Museum
+			President James K. Polk Historic Site
+			Reed Gold Mine
+			Roanoke Island Festival Park
+			Somerset Place
+			The Thomas Wolfe Memorial
+			Town Creek Indian Mound
+			Tryon Palace
+			USS North Carolina
+				{Battleship North Carolina}
+			Vance Birthplace
+		[North Carolina State Parks and Recreation]
+			Carolina Beach State Park
+			Carvers Creek State Park
+			Chimney Rock State Park
+			Cliffs of the Neuse State Park
+			Crowders Mountain State Park
+			Dismal Swamp State Park
+			Elk Knob State Park
+			Eno River State Park
+			Falls Lake State Recreation Area
+			Fort Fisher State Recreation Area
+			Fort Macon State Park
+			Goose Creek State Park
+			Gorges State Park
+			Grandfather Mountain State Park
+			Hammocks Beach State Park
+				Bear Island
+			Hanging Rock State Park
+			Haw River State Park
+				Iron Ore Belt Access
+				The Summit Environmental Education and Conference Center
+			Jockey's Ridge State Park
+			Jones Lake State Park
+			Jordan Lake State Recreation Area
+			Kerr Lake State Recreation Area
+			Lake James State Park
+			Lake Norman State Park
+			Lake Waccamaw State Park
+			Lumber River State Park
+			Mayo River State Park
+			Medoc Mountain State Park
+			Merchants Millpond State Park
+			Morrow Mountain State Park
+			Mount Jefferson State Natural Area
+			Mount Mitchell State Park
+			New River State Park
+			Occoneechee Mountain State Natural Area
+			Pettigrew State Park
+			Pilot Mountain State Park
+			Raven Rock State Park
+			Singletary Lake State Park
+			South Mountains State Park
+			Stone Mountain State Park
+			Weymouth Woods Sandhills Nature Preserve
+			William B. Umstead State Park
+

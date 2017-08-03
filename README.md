@@ -47,8 +47,13 @@ This may be easier to use than the listing including management complexes, and i
 
 ### Parks-State-_XX_.txt
 Hierarchical list of individual state park units.
+
+#### Parks-State-NC.txt
+Sourced from various parts of the [N.C. Department of Natural and Cultural Resources](https://www.ncdcr.gov), including [NC Parks and Recreation](https://www.ncparks.gov) and [NC Historic Sites](http://www.nchistoricsites.org)
+
 #### Parks-State-NJ.txt
 Sourced from [NJ DEP Park Directory](http://www.state.nj.us/dep/parksandforests/parks/parkindex.html)
+
 #### Parks-State-NY.txt
 Sourced from [NY DEC](http://www.dec.ny.gov) and [NY OPRHP](http://nysparks.com), organized into separate hierarchies due to the total number of items.  The latter is likely to be more commonly used so separate hierarchies keeps the list more useable.
 
