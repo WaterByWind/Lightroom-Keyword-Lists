@@ -230,6 +230,12 @@
 						{Crab Meadow Watershed}
 						Makamah Nature Preserve
 							{Makamah County Park}
+					Fuchs Pond County Nature Preserve
+						{Alexander G. McKay Preserve at Cranberry Hill Fuchs Pond County Park}
+						{Alexander G. McKay Preserve}
+						{Cranberry Hill County Park}
+						{Fuchs Pond Nature Preserve}
+						{Fuchs Pond}
 				San Remo
 					Arthur Kunz County Park
 				Smithtown

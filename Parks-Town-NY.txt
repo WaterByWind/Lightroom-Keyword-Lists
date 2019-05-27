@@ -79,9 +79,6 @@
 					{Crab Meadow Watershed}
 					Crab Meadow Beach
 						{Crabmeadow Beach}
-					Fuchs Pond Nature Preserve
-						{Fuchs Pond Preserve}
-						{Fuchs Pond}
 					Geissler's Beach
 						{Makamah Beach}
 					Henry Ingraham Nature Preserve
